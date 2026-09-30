@@ -1,0 +1,105 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 008/013 — itens 701–800 de 1279
+
+## Windows 7
+w7 rtm ult eng x32: https://archive.org/download/english_windows_collection/Windows%207/RTM/en_windows_7_ultimate_x86_dvd_x15-65921.iso
+w7 rtm ult eng x64: https://archive.org/download/english_windows_collection/Windows%207/RTM/en_windows_7_ultimate_x64_dvd_x15-65922.iso
+w7 sp1 ent ptbr x32: https://archive.org/download/Windows7_x86-x64_ptBR_Pack_MSDN/pt_windows_7_enterprise_with_sp1_x86_dvd_u_677686.iso
+w7 sp1 ent ptbr x64: https://archive.org/download/Windows7_x86-x64_ptBR_Pack_MSDN/pt_windows_7_enterprise_with_sp1_x64_dvd_u_677668.iso
+w7 sp1 homebasic ptbr x32: https://archive.org/download/Windows7_x86-x64_ptBR_Pack_MSDN/pt_windows_7_home_basic_with_sp1_x86_dvd_u_676491.iso
+w7 sp1 homeprem ptbr x64: https://archive.org/download/Windows7_x86-x64_ptBR_Pack_MSDN/pt_windows_7_home_premium_with_sp1_x64_dvd_u_676545.iso
+w7 sp1 multi x64: https://archive.org/download/win-7-multi-lang-x64/mu_windows_7_with_sp1_x64_dvd.iso
+w7 sp1 pro ptbr x32: https://archive.org/download/Windows7_x86-x64_ptBR_Pack_MSDN/pt_windows_7_professional_with_sp1_x86_dvd_u_677096.iso
+w7 sp1 pro ptbr x64: https://archive.org/download/Windows7_x86-x64_ptBR_Pack_MSDN/pt_windows_7_professional_with_sp1_x64_dvd_u_676950.iso
+w7 sp1 starter ptbr x32: https://archive.org/download/Windows7_x86-x64_ptBR_Pack_MSDN/pt_windows_7_starter_with_sp1_x86_dvd_u_678426.iso
+w7 sp1 todas-edicoes ptbr x32/x64: https://archive.org/download/windows-me_202207/Windows%207/Windows%207%20SP1%20Todas%20as%20edi%C3%A7%C3%B5es%20PT-BR%20(x86-x64).iso.iso
+w7 sp1 ult eng x32: https://archive.org/download/english_windows_collection/Windows%207/SP1/Win7_Ult_SP1_English_x32.iso
+w7 sp1 ult eng x64: https://archive.org/download/english_windows_collection/Windows%207/SP1/Win7_Ult_SP1_English_x64.iso
+w7 sp1 ult ptbr x32: https://archive.org/download/win7-ult-sp1-brazilian-portuguese/Win7_Ult_SP1_BrazilianPortuguese_x32.iso
+w7 sp1 ult ptbr x64: https://archive.org/download/win7-ult-sp1-brazilian-portuguese/Win7_Ult_SP1_BrazilianPortuguese_x64.iso
+Windows 7 (Carlos Virgilio's Edition V3.0 Beta 1): https://archive.org/download/windows-7-cv-edition-3.0-beta1
+Windows 7 (Carlos Virgilio's Edition V3.0 Beta 2): https://archive.org/download/windows-7-crvg-edition-3.0-beta2
+Windows 7 Beta: https://archive.org/download/beta_20240111
+Windows 7 Beta: https://archive.org/download/windows-7-beta
+Windows 7 Beta All In One German) Mac: https://archive.org/download/windows-7-beta-all-in-one-german-mac-
+Windows 7 Beta Cover: https://archive.org/download/windows-7-beta-cover
+Windows 7 Beta Favorites: https://archive.org/download/fav-windows_7_beta
+Windows 7 Beta In But Caine: https://archive.org/download/windows_7_beta_in_but_caine
+Windows 7 beta login backgrounds for RTM and SP1: https://archive.org/download/win7beta-backgrounds
+WIndows 7 Beta Test: https://archive.org/download/gb-1-culfre-en-dvd
+Windows 7 Beta Updates: https://archive.org/download/windows-7-beta-updates
+Windows 7 Delta Beta 1: https://archive.org/download/windows-7-delta-beta-1
+Windows 7 Games beta: https://archive.org/download/windows-7-games_202412
+Windows 7 Pro Lite SP 1 V 2.0 Beta 1: https://archive.org/download/windows-7-pro-lite-sp-1-v-2.0-beta-1
+Windows 7 to Vista Beta 1: https://archive.org/download/windows_longhorn_skinpack__1_0_x64_by_thedhruv_d4q48at
+Windows 7 Ultimate (Carlos Virgilio Edition V2.0 Beta): https://archive.org/download/windows-7-ultimate-rtm-carlos-virgilio-edition-V2.0-beta
+Windows 7 Ultimate (Carlos Virgilio Edition V2.1 Beta): https://archive.org/download/windows-7-ultimate-cv-version-2.1-beta
+Windows 7 Ultimate lite++ 1.0 Build A (XeonDJ) SP0: https://archive.org/download/ULTIMATELITE1.0
+Windows 7 Universal beta 1: https://archive.org/download/ru_windows_7_Universal1_ultimate_with_sp1_and_programs_x64
+windows 7, 8 beta, 10, 11 leaked, 11, xp 64 bit: https://archive.org/download/windows-7-8-beta-10-11-leaked-11-xp-6-bit
+Windows 7 Ultimate transformed into Windows 2000 Professional (Virtual machine): https://archive.org/download/windows-7-ultimate-transformed-into-windows-2000-professional-virtual-machine
+Windows 7 and Windows Server 2008 R2 Service Pack 1 7601.16562.100603-1800 (KB976932 Beta 1 Wave 0): https://archive.org/download/windows-7-and-windows-server-2008-r2-service-pack-1-7601.16562.100603-1800-kb976932-wave-0
+Windows 7 (Beta 2009-10): https://archive.org/download/windows-7-beta-2009-10
+Windows 7 with Kids 2010-2011 (Beta Version And Finals): https://archive.org/download/windows-7-beta-version-and-finals
+Windows 7 Aero Blue Lite Edition 2016 V 2.0 X 86 By Computer Worms Team: https://archive.org/download/windows-7-aero-blue-lite-edition-2016-v-2.0-x-86-by-computer-worms-team
+w7 sp1 todas-edicoes 2018 x32/x64: https://archive.org/download/windows-me_202207/Windows%207/Windows%207%20SP1%20(Todas%20as%20edi%C3%A7%C3%B5es)%202018%20(x64-x86).iso
+w7 sp1 ptbr x64 atualizado-2022: https://archive.org/download/windows-me_202207/Windows%207%20x64%20Atualizado%20at%C3%A9%202022.iso
+Windows 7 Longhorn 2023 X 64: https://archive.org/download/windows-7-longhorn-2023-x-64
+Windows 7 Longhorn 2023 X 64: https://archive.org/download/windows-7-longhorn-2023-x-64_202305
+Windows Aviro build 4860 (Beta 1) (Windows 7 mod): https://archive.org/download/windows-aviro-build-4860
+Windows 7 Beta Bulid 6371: https://archive.org/download/windows-7-beta-bulid-6371
+Windows 7 Beta Build 6801 Boot Screen for Win7 Boot Updater: https://archive.org/download/windows-7-build-6801_202410
+Windows Beta Collection: Windows 7 Build 6801 & Windows 11 Build 21996.1: https://archive.org/download/windows-beta-6801-21996-collection
+w7 build 6910: https://archive.org/download/windows-me_202207/Windows%207/Windows%207%20build%206910.iso
+Windows 7 Beta Build 6931 (32 bits - 64 bits): https://archive.org/download/windows-7-build-6931
+Windows 7 Beta Build 6931 X 64: https://archive.org/download/windows-7-beta-build-6931-x-64
+w7 beta 6936 x86: https://archive.org/download/windows-me_202207/Windows%207/Windows%207%20Beta%206936%20%28x86%29.iso
+Windows 7 Beta PB-6936: https://archive.org/download/beta_20211212
+Windows 7 Pre-Beta (Build 6956) [x86]: https://archive.org/download/Win7PreBetaBuild6956
+w7 build 7000 en x86: https://archive.org/download/build-7000-x-64/Windows%207%20Build%207000_en_x86.iso
+w7 build 7000 original-style ISO: https://archive.org/download/7000.0.081212-1400-client-en-us-ultimate-gb-1-culfre-en-dvd/7000.0.081212-1400_client_en-us_Ultimate-GB1CULFRE_EN_DVD.iso
+w7 build 7000 x64: https://archive.org/download/build-7000-x-64/Build_7000_X64.ISO
+w7 build 7000 x86: https://archive.org/download/build-7000-x-64/Build_7000_X32.iso
+w7 build 7000 x86 (alt): https://archive.org/download/windows-7-build-7000/Windows%207%20Build%207000.iso
+Windows 7 All Version Beta (Build 7000) (Arabic) [x86/x64]: https://archive.org/download/Win7AllVersionBeta7000ARAx86x64
+windows 7 beta 7000: https://archive.org/download/win-7-beta-7000
+Windows 7 Beta AIO (Build 7000) [x86/x64]: https://archive.org/download/Win7BetaAIOx86x64
+Windows 7 Beta All In One ( Build 7000) [x 86x 64] ( German): https://archive.org/download/windows-7-beta-all-in-one-build-7000-
+Windows 7 Beta All in One (Build 7000) [x86/x64] (German): https://archive.org/download/WIN7_BETA_AIO_BUILD7000_DE-DE_ISO
+Windows 7 Beta Build 7000 collection item: https://archive.org/details/windows-7-beta-collection
+Windows 7 Ringtones (Beta) Build 7000: https://archive.org/download/ringtone-1_202412
+Windows 7 Ultimate 32-Bit Beta [GERMAN] (6.1 Build 7000): https://archive.org/download/7000.0.081212-1400-client-de-de-ultimate-gb-1-culfre-de-dvdwindows-7-ultimate-32
+Windows 7 Ultimate (Beta 7000 – SP2 Full Update) [English, x64]: https://archive.org/download/Windows-7-Ultimate-Beta-To-SP2
+Windows 7 Ultimate Beta Build 7000 x86: https://archive.org/download/Win7Ultimate7000x86
+w7 beta 7022 x86: https://archive.org/download/windows-me_202207/Windows%207/Windows%207%20Beta%207022%20%28x86%29.iso
+Windows 7 Beta SKU Build 7025 x86: https://archive.org/download/Win7BetaSKUBuild7025x86
+w7 build 7048 x86: https://archive.org/download/Win7Build7048/7048.0.090219-1845_x86fre_client_en-us_Ultimate_EN_DVD.iso
+Windows 7 Beta Build 7225 (64 bits): https://archive.org/download/windows-7-build-7225
+Windows 7 Ultimate SP1 Beta (Build 7601.16537) (Chinese Bootleg Copy): https://archive.org/download/Win7UltimateSP1Beta16537CHSBootleg
+Windows 7 Ultimate with SP1 Beta (Build 7601.16562) [x86/x64]: https://archive.org/download/Win7UltimateSP1BetaBuild7601.16562
+
+## Windows 8 / 8.1
+w8 pro eng x32: https://archive.org/download/english_windows_collection/Windows%208/Windows%208%20Pro%2032-Bit.iso
+w8 pro eng x64: https://archive.org/download/english_windows_collection/Windows%208/Windows%208%20Pro%2064-Bit.iso
+w8 pro ptbr x32: https://archive.org/download/HRMCCSAX64FREPTBRDV5/HRM_CCSA_X86FRE_PT-BR_DV5.ISO
+w8 pro ptbr x64: https://archive.org/download/HRMCCSAX64FREPTBRDV5/HRM_CCSA_X64FRE_PT-BR_DV5.ISO
+w8.1 embedded industry x64: https://archive.org/download/windows-me_202207/Windows%208.1/Windows%208.1%20Embedded%20Industry%20(x64).ISO
+w8.1 embedded industry x86: https://archive.org/download/windows-me_202207/Windows%208.1/Windows%208.1%20Embedded%20Industry%20(x86).ISO
+w8.1 esp x32: https://archive.org/download/windows-81-pro-32-64-esp/Win8.1_Spanish_x32.iso
+w8.1 esp x64: https://archive.org/download/windows-81-pro-32-64-esp/Win8.1_Spanish_x64.iso
+w8.1 pro n ptpt x32: https://archive.org/download/win-8.1-brazilian-portuguese/Win8.1_Pro_N_Portuguese_x32.iso
+w8.1 pro n ptpt x64: https://archive.org/download/win-8.1-brazilian-portuguese/Win8.1_Pro_N_Portuguese_x64.iso
+w8.1 ptbr x32: https://archive.org/download/win-8.1-brazilian-portuguese/Win8.1_BrazilianPortuguese_x32.iso
+w8.1 ptbr x64: https://archive.org/download/win-8.1-brazilian-portuguese/Win8.1_BrazilianPortuguese_x64.iso
+w8.1 rtm eng x32: https://archive.org/download/english_windows_collection/Windows%208.1/RTM/en_windows_8_1_x86_dvd_2707392.iso
+w8.1 rtm eng x64: https://archive.org/download/english_windows_collection/Windows%208.1/RTM/en_windows_8_1_x64_dvd_2707217.iso
+w8.1 singlelang ptbr x32: https://archive.org/download/win-8.1-brazilian-portuguese/Win8.1_SingleLang_BrazilianPortuguese_x32.iso
+w8.1 singlelang ptbr x64: https://archive.org/download/win-8.1-brazilian-portuguese/Win8.1_SingleLang_BrazilianPortuguese_x64.iso
+w8.1 tur x32: https://archive.org/download/windows-8.1-turkish/Win8.1_Turkish_x32.iso
+w8.1 tur x64: https://archive.org/download/windows-8.1-turkish/Win8.1_Turkish_x64.iso
+w8.1 u1 eng x32: https://archive.org/download/english_windows_collection/Windows%208.1/Update%201/Win8.1_English_x32.iso
+w8.1 u1 eng x64: https://archive.org/download/english_windows_collection/Windows%208.1/Update%201/Win8.1_English_x64.iso
+Windows 8 (Beta) Anti-Piracy.mp4: https://archive.org/download/archive-org-Windows-8--Beta--Anti-Piracy-mp4
+Windows 8 Beta Builds Debombed (REBRANDED/DO NOT REPORT THIS): https://archive.org/download/windows-8-builds-debombed
+Windows 8 Beta Product Key Bypasser: https://archive.org/download/product-key-bypasser
+Windows 8 Beta VDI: https://archive.org/download/windows-8-beta
+Windows 8.1 Lite 2023 V 1.0@: https://archive.org/download/windows-8.1-lite-2023-v-1.0

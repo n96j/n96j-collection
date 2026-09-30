@@ -1,0 +1,103 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 011/013 — itens 1001–1100 de 1279
+
+## Windows 10
+w10 1607 cze x32: https://archive.org/download/win10-1607/Win10_1607_Czech_x32.iso
+w10 1607 cze x64: https://archive.org/download/win10-1607/Win10_1607_Czech_x64.iso
+w10 1607 dan x32: https://archive.org/download/win10-1607/Win10_1607_Danish_x32.iso
+w10 1607 dan x64: https://archive.org/download/win10-1607/Win10_1607_Danish_x64.iso
+w10 1607 deu x32: https://archive.org/download/win10-1607/Win10_1607_German_x32.iso
+w10 1607 deu x64: https://archive.org/download/win10-1607/Win10_1607_German_x64.iso
+w10 1607 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1607%20Redstone%201/Win10_1607_English_x32.iso
+w10 1607 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1607%20Redstone%201/Win10_1607_English_x64.iso
+w10 1607 engintl x32: https://archive.org/download/win10-1607/Win10_1607_EnglishInternational_x32.iso
+w10 1607 engintl x64: https://archive.org/download/win10-1607/Win10_1607_EnglishInternational_x64.iso
+w10 1607 esmx x32: https://archive.org/download/win10-1607/Win10_1607_SpanishMexico_x32.iso
+w10 1607 esmx x64: https://archive.org/download/win10-1607/Win10_1607_SpanishMexico_x64.iso
+w10 1607 esp x32: https://archive.org/download/win10-1607/Win10_1607_Spanish_x32.iso
+w10 1607 esp x64: https://archive.org/download/win10-1607/Win10_1607_Spanish_x64.iso
+w10 1607 est x32: https://archive.org/download/win10-1607/Win10_1607_Estonian_x32.iso
+w10 1607 est x64: https://archive.org/download/win10-1607/Win10_1607_Estonian_x64.iso
+w10 1607 fin x32: https://archive.org/download/win10-1607/Win10_1607_Finnish_x32.iso
+w10 1607 fin x64: https://archive.org/download/win10-1607/Win10_1607_Finnish_x64.iso
+w10 1607 fra x32: https://archive.org/download/win10-1607/Win10_1607_French_x32.iso
+w10 1607 fra x64: https://archive.org/download/win10-1607/Win10_1607_French_x64.iso
+w10 1607 frca x32: https://archive.org/download/win10-1607/Win10_1607_FrenchCanadian_x32.iso
+w10 1607 frca x64: https://archive.org/download/win10-1607/Win10_1607_FrenchCanadian_x64.iso
+w10 1607 gre x32: https://archive.org/download/win10-1607/Win10_1607_Greek_x32.iso
+w10 1607 gre x64: https://archive.org/download/win10-1607/Win10_1607_Greek_x64.iso
+w10 1607 heb x32: https://archive.org/download/win10-1607/Win10_1607_Hebrew_x32.iso
+w10 1607 heb x64: https://archive.org/download/win10-1607/Win10_1607_Hebrew_x64.iso
+w10 1607 hrv x32: https://archive.org/download/win10-1607/Win10_1607_Croatian_x32.iso
+w10 1607 hrv x64: https://archive.org/download/win10-1607/Win10_1607_Croatian_x64.iso
+w10 1607 hun x32: https://archive.org/download/win10-1607/Win10_1607_Hungarian_x32.iso
+w10 1607 hun x64: https://archive.org/download/win10-1607/Win10_1607_Hungarian_x64.iso
+w10 1607 ita x32: https://archive.org/download/win10-1607/Win10_1607_Italian_x32.iso
+w10 1607 ita x64: https://archive.org/download/win10-1607/Win10_1607_Italian_x64.iso
+w10 1607 jpn x32: https://archive.org/download/win10-1607/Win10_1607_Japanese_x32.iso
+w10 1607 jpn x64: https://archive.org/download/win10-1607/Win10_1607_Japanese_x64.iso
+w10 1607 kor x32: https://archive.org/download/win10-1607/Win10_1607_Korean_x32.iso
+w10 1607 kor x64: https://archive.org/download/win10-1607/Win10_1607_Korean_x64.iso
+w10 1607 lav x32: https://archive.org/download/win10-1607/Win10_1607_Latvian_x32.iso
+w10 1607 lav x64: https://archive.org/download/win10-1607/Win10_1607_Latvian_x64.iso
+w10 1607 lit x32: https://archive.org/download/win10-1607/Win10_1607_Lithuanian_x32.iso
+w10 1607 lit x64: https://archive.org/download/win10-1607/Win10_1607_Lithuanian_x64.iso
+w10 1607 nld x32: https://archive.org/download/win10-1607/Win10_1607_Dutch_x32.iso
+w10 1607 nld x64: https://archive.org/download/win10-1607/Win10_1607_Dutch_x64.iso
+w10 1607 nor x32: https://archive.org/download/win10-1607/Win10_1607_Norwegian_x32.iso
+w10 1607 nor x64: https://archive.org/download/win10-1607/Win10_1607_Norwegian_x64.iso
+w10 1607 pol x32: https://archive.org/download/win10-1607/Win10_1607_Polish_x32.iso
+w10 1607 pol x64: https://archive.org/download/win10-1607/Win10_1607_Polish_x64.iso
+w10 1607 ptbr x32: https://archive.org/download/win10-1607/Win10_1607_BrazilianPortuguese_x32.iso
+w10 1607 ptbr x64: https://archive.org/download/win10-1607/Win10_1607_BrazilianPortuguese_x64.iso
+w10 1607 ptpt x32: https://archive.org/download/win10-1607/Win10_1607_Portuguese_x32.iso
+w10 1607 ptpt x64: https://archive.org/download/win10-1607/Win10_1607_Portuguese_x64.iso
+w10 1607 rom x32: https://archive.org/download/win10-1607/Win10_1607_Romanian_x32.iso
+w10 1607 rom x64: https://archive.org/download/win10-1607/Win10_1607_Romanian_x64.iso
+w10 1607 rus x32: https://archive.org/download/win10-1607/Win10_1607_Russian_x32.iso
+w10 1607 rus x64: https://archive.org/download/win10-1607/Win10_1607_Russian_x64.iso
+w10 1607 slk x32: https://archive.org/download/win10-1607/Win10_1607_Slovak_x32.iso
+w10 1607 slk x64: https://archive.org/download/win10-1607/Win10_1607_Slovak_x64.iso
+w10 1607 slv x32: https://archive.org/download/win10-1607/Win10_1607_Slovenian_x32.iso
+w10 1607 slv x64: https://archive.org/download/win10-1607/Win10_1607_Slovenian_x64.iso
+w10 1607 srlat x32: https://archive.org/download/win10-1607/Win10_1607_SerbianLatin_x32.iso
+w10 1607 srlat x64: https://archive.org/download/win10-1607/Win10_1607_SerbianLatin_x64.iso
+w10 1607 swe x32: https://archive.org/download/win10-1607/Win10_1607_Swedish_x32.iso
+w10 1607 swe x64: https://archive.org/download/win10-1607/Win10_1607_Swedish_x64.iso
+w10 1607 tha x32: https://archive.org/download/win10-1607/Win10_1607_Thai_x32.iso
+w10 1607 tha x64: https://archive.org/download/win10-1607/Win10_1607_Thai_x64.iso
+w10 1607 tur x32: https://archive.org/download/win10-1607/Win10_1607_Turkish_x32.iso
+w10 1607 tur x64: https://archive.org/download/win10-1607/Win10_1607_Turkish_x64.iso
+w10 1607 ukr x32: https://archive.org/download/win10-1607/Win10_1607_Ukrainian_x32.iso
+w10 1607 ukr x64: https://archive.org/download/win10-1607/Win10_1607_Ukrainian_x64.iso
+w10 1607 zhcn x32: https://archive.org/download/win10-1607/Win10_1607_Chinese(Simplified)_x32.iso
+w10 1607 zhcn x64: https://archive.org/download/win10-1607/Win10_1607_Chinese(Simplified)_x64.iso
+w10 1607 zhtw x32: https://archive.org/download/win10-1607/Win10_1607_Chinese(Traditional)_x32.iso
+w10 1607 zhtw x64: https://archive.org/download/win10-1607/Win10_1607_Chinese(Traditional)_x64.iso
+w10 1703 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1703%20Redstone%202/Win10_1703_English_x32.iso
+w10 1703 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1703%20Redstone%202/Win10_1703_English_x64.iso
+w10 1709 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1709%20Redstone%203/Win10_1709_English_x32.iso
+w10 1709 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1709%20Redstone%203/Win10_1709_English_x64.iso
+w10 1803 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1803%20Redstone%204/Win10_1803_English_x32.iso
+w10 1803 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1803%20Redstone%204/Win10_1803_English_x64.iso
+w10 1809 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1809%20Redstone%205/Win10_1809_English_x32.iso
+w10 1809 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1809%20Redstone%205/Win10_1809_English_x64.iso
+Windows 10 To 7 Version 1809 Pre-Release 1.0: https://archive.org/download/win10to7
+w10 1903 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1903%2019H1/Win10_1903_V1_English_x32.iso
+w10 1903 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1903%2019H1/Win10_1903_V1_English_x64.iso
+w10 1909 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1909%2019H2/Win10_1909_English_x32.iso
+w10 1909 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1909%2019H2/Win10_1909_English_x64.iso
+w10 2004 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/2004%2020H1/Win10_2004_English_x32.iso
+w10 2004 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/2004%2020H1/Win10_2004_English_x64.iso
+Windows 10 Pro Ninjutsu 2020 2.0 Version 2004 Build 19041: https://archive.org/download/windows-10-pro-ninjutsu
+w10 20H2 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/20H2/Win10_20H2_English_x32.iso
+w10 20H2 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/20H2/Win10_20H2_English_x64.iso
+w10 21H1 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/21H1/Win10_21H1_English_x32.iso
+w10 21H1 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/21H1/Win10_21H1_English_x64.iso
+w10 21h1 ptbr x64: https://archive.org/download/win-10-21-h-1-brazilian-portuguese-x-64/Win10_21H1_BrazilianPortuguese_x64.iso
+w10 21H2 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/21H2/Win10_21H2_English_x32.iso
+w10 21H2 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/21H2/Win10_21H2_English_x64.iso
+w10 iot ltsc 21h2 eng x64: https://archive.org/download/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f_202112/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso
+w10 ltsc 21h2 eng x64: https://archive.org/download/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96/en-us_windows_10_enterprise_ltsc_2021_x64_dvd_d289cf96.iso
+w10 ltsc 21h2 esp x32: https://archive.org/download/windows-10-enterprise-ltsc-2021-x-64-dvd-esp/Windows_10_enterprise_ltsc_2021_x86_dvd_es-es_243c83eb.iso
+w10 ltsc 21h2 esp x64: https://archive.org/download/windows-10-enterprise-ltsc-2021-x-64-dvd-esp/Windows_10_enterprise_ltsc_2021_x64_dvd_es-es_51d721ea.iso
+w10 ltsc 21h2 ptbr x64: https://archive.org/download/pt-br_windows_10_enterprise_ltsc_2021_x64_dvd_f318268e/pt-br_windows_10_enterprise_ltsc_2021_x64_dvd_f318268e.iso

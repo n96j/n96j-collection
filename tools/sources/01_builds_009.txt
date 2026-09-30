@@ -1,0 +1,105 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 009/013 — itens 801–900 de 1279
+
+## Windows 8 / 8.1
+Microsoft Windows 8 Beta Bulids Collection 2025: https://archive.org/download/win8bulidcollection2025
+w8 beta 7700 x64: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%207700%20(x64).iso
+w8 beta 7746 x64: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%207746%20(x64).iso
+w8 beta 7850 x86: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%207850%20(x86).iso
+w8 beta 7927 x86: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%207927%20(x86).iso
+Windows 8 beta build 6.2.7955.0.fbl Srv: https://archive.org/download/6.2.7955.0.fbl-srv-wdacxml.-110228-1930-x-86fre-client-ultimate-retail-en-us-hm-
+w8 beta 7962 x64: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%207962%20(x64).iso
+w8 beta 8008 x64: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%20Build%208008%20(x64).iso
+w8 beta 8032 x86: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%208032%20(x86).iso
+w8 beta 8056 x86: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%208056%20(x86).iso
+w8 devpreview 8102 x64: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Developer%20Preview%20Build%208102%20(x64).iso
+w8 build 8250 peixe: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Build%208250%20(Peixe%20edditon).iso
+w8 beta 8330 x86: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Beta%208330%20(x86).iso
+Windows 8 Build 8330 (fbl_ie_longhorn): https://archive.org/download/windows-8-build-8330-fbl_ie_longhorn
+Windows 8 Build 8330 (fbl_ie_longhorn) (x86): https://archive.org/download/6.2.8330.0.fbl-ie-longhorn.-120425-2121-x-86fre-client-professional-core-retail-
+Windows 8 Build 8330 fbl_ie_longhorn (EN-US, Debombed): https://archive.org/download/windows-8-build-8330-fbl-ie-longhorn-en-us-debombed
+Windows 8 Beta 8331 x86 ISO (Debombed): https://archive.org/download/win8_8331_debombed
+Windows 8 Build 8438 fbl_ie_longhorn (EN US, Debombed): https://archive.org/download/Windows8Build8438LonghornDebombed
+Microsoft Windows 8 Build 8441 Win PE Beta Simplified Chinese: https://archive.org/download/microsoft-windows-8-build-8441-win-pe-beta-simplified-chinese
+w8 build 9200: https://archive.org/download/windows-me_202207/Windows%208/Windows%208%20Build%209200.iso
+w8.1 build 9364 x64: https://archive.org/download/windows-me_202207/Windows%208.1/Windows%208.1%20Build%209364%20(x64).iso
+w8.1 build 9431 peixe x64: https://archive.org/download/windows-me_202207/Windows%208.1/Windows%208.1%20Build%209431%20Peixe%20Edditon%203%20(x64).ISO
+w8.1 build 9431 peixe x86: https://archive.org/download/windows-me_202207/Windows%208.1/Windows%208.1%20Build%209431%20Peixe%20Eddition%203%20(x86).ISO
+w8.1 build 9471 peixe x64: https://archive.org/download/windows-me_202207/Windows%208.1/Windows%208.1%20Build%209471%20Peixe%20Eddition%20Secreto%20(x64).iso
+w8.1 tp 9834 x64: https://archive.org/download/windows-me_202207/Windows%208.1/Windows%208.1%20Techical%20Preview%20build%209834%20(x64).iso
+
+## Windows 10
+w10 mais recente ptbr x64: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Mais%20recente%20PT-BR%20(x64).iso
+w10 mais recente x86: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Mais%20recente%20(x86).iso
+Windows 10 (Beta): https://archive.org/download/win10_202001
+Windows 10 Beta Debomb Pack: https://archive.org/download/windows-10-beta-debomb-pack-
+Windows 10 Beta Into Windows 8 ( 1): https://archive.org/download/windows-10-beta-into-windows-8-1
+Windows 10 Beta Russian: https://archive.org/download/windows-10-beta-russian
+windows 10, the definitive beta collection (official ISOs) (español de españa): https://archive.org/download/10-bet-def-col-is-esp
+Windows 10 Kodiak Build 1001 Beta Tester: https://archive.org/download/source-code_202511
+w10 tp 9780 x86: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Technical%20Preview%209780%20(x86).iso
+w10 tp 9879 x86: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Technical%20Preview%20Build%209879%20(x86).ISO
+w10 tp 9926 x64: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Techincal%20Preview%20Build%209926%20(x64).iso
+w10 tp 9926 x86: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Technical%20Preview%20Build%209926%20(x86).iso
+w10 tp 10005 x64: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Technical%20Preview%20Build%2010005%20(x64).iso
+w10 tp 10041 x64: https://archive.org/download/windows-me_202207/Windows%2010/Windows%2010%20Pro%20Technical%20Preview%20Build%2010041%20(x64).iso
+Windows 10 Beta Build 10130 Turkish: https://archive.org/download/windows-10-beta-build-10130
+w10 1507 ara x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Arabic_x32.iso
+w10 1507 ara x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Arabic_x64.iso
+w10 1507 bul x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Bulgarian_x32.iso
+w10 1507 bul x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Bulgarian_x64.iso
+w10 1507 cze x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Czech_x32.iso
+w10 1507 cze x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Czech_x64.iso
+w10 1507 dan x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Danish_x32.iso
+w10 1507 dan x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Danish_x64.iso
+w10 1507 deu x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_German_x32.iso
+w10 1507 deu x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_German_x64.iso
+w10 1507 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/1507%20Threshold%201%20RTM/Win10_English_x32.iso
+w10 1507 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/1507%20Threshold%201%20RTM/Win10_English_x64.iso
+w10 1507 engintl x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_EnglishInternational_x32.iso
+w10 1507 engintl x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_EnglishInternational_x64.iso
+w10 1507 esmx x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_SpanishMexico_x32.iso
+w10 1507 esmx x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_SpanishMexico_x64.iso
+w10 1507 esp x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Spanish_x32.iso
+w10 1507 esp x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Spanish_x64.iso
+w10 1507 est x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Estonian_x32.iso
+w10 1507 est x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Estonian_x64.iso
+w10 1507 fin x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Finnish_x32.iso
+w10 1507 fin x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Finnish_x64.iso
+w10 1507 fra x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_French_x32.iso
+w10 1507 fra x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_French_x64.iso
+w10 1507 frca x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_FrenchCanadian_x32.iso
+w10 1507 frca x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_FrenchCanadian_x64.iso
+w10 1507 gre x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Greek_x32.iso
+w10 1507 gre x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Greek_x64.iso
+w10 1507 heb x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Hebrew_x32.iso
+w10 1507 heb x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Hebrew_x64.iso
+w10 1507 hrv x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Croatian_x32.iso
+w10 1507 hrv x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Croatian_x64.iso
+w10 1507 hun x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Hungarian_x32.iso
+w10 1507 hun x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Hungarian_x64.iso
+w10 1507 ita x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Italian_x32.iso
+w10 1507 ita x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Italian_x64.iso
+w10 1507 jpn x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Japanese_x32.iso
+w10 1507 jpn x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Japanese_x64.iso
+w10 1507 kor x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Korean_x32.iso
+w10 1507 kor x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Korean_x64.iso
+w10 1507 lav x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Latvian_x32.iso
+w10 1507 lav x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Latvian_x64.iso
+w10 1507 lit x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Lithuanian_x32.iso
+w10 1507 lit x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Lithuanian_x64.iso
+w10 1507 nld x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Dutch_x32.iso
+w10 1507 nld x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Dutch_x64.iso
+w10 1507 nor x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Norwegian_x32.iso
+w10 1507 nor x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Norwegian_x64.iso
+w10 1507 pol x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Polish_x32.iso
+w10 1507 pol x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Polish_x64.iso
+w10 1507 ptbr x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_BrazilianPortuguese_x32.iso
+w10 1507 ptbr x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_BrazilianPortuguese_x64.iso
+w10 1507 ptpt x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Portuguese_x32.iso
+w10 1507 ptpt x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Portuguese_x64.iso
+w10 1507 rom x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Romanian_x32.iso
+w10 1507 rom x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Romanian_x64.iso
+w10 1507 rus x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Russian_x32.iso
+w10 1507 rus x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Russian_x64.iso
+w10 1507 slk x32: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Slovak_x32.iso
+w10 1507 slk x64: https://archive.org/download/windows-10-1507-home-and-pro/Win10_Slovak_x64.iso

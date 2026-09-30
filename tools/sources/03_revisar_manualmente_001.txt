@@ -1,0 +1,34 @@
+# DUVIDOSOS — conferir à mão — parte 001/001 — itens 1–15 de 15
+
+## Windows 95 / Chicago
+Mucking around with Windows Chicago Build 122: https://archive.org/download/mucking-around-with-windows-chicago-build-122
+Microsoft 2027 Windows Chicago 11 Build 4.00 ISO: https://archive.org/download/microsoft-2027-windows-chicago-11-build-4.00-iso
+
+## Windows 98 / Memphis
+Bootdisk Windows Memphis Build 1546: https://archive.org/download/bootdisk-windows-memphis-1546-huvi-retro-gt
+
+## Windows NT (3.x / 4.0 / Cairo)
+MS DOS 5.0 Pre Release Beta Build 336 (included In Windows NT 3.1 April 1991 Build): https://archive.org/download/ms-dos-5.0-pre-release-beta-build-336-included-in-windows-nt-3.1-april-1991-build
+Microsoft LAN Manager for Windows NT 3.1 (build 340 beta/pre-release - later named Windows NT Server) - preinstalled VMDK image for VMware Workstation virtual machine: https://archive.org/download/windows-nt-server-3.1-build-340-pre-release
+
+## Windows 2000
+pack de actualizaciones del windows 2000 (iso de wsusoffline) (en ingles): https://archive.org/download/wsusoffline-2000-enu-actus-upd
+Microsoft OEM System Builder - Windows 2000 Professional Preview (Beta 3 build 2031.1): https://archive.org/download/ms-oem-win2k-b3
+
+## Windows XP / Whistler
+Upgrading Windows Whistler Build 2257-2264 (Realtime Installation): https://archive.org/download/upgrading-windows-whistler-build-2257-2264-realtime-installation
+
+## Windows Longhorn / Vista
+Win Longhorn Pro M 6 Build 4029x 86 and windows media centre combo pack bundle: https://archive.org/download/win-longhorn-pro-m-6-build-4029x-86
+Patched kernels for Windows Longhorn build 4074: https://archive.org/download/patched-kernels-4074
+
+## Windows 7
+HP FLEX BUILD 2.0 Windows 7 Portable Environment: https://archive.org/download/hp-flex-build-windows-7-pe
+Not Windows Vienna Starter Milestone 20: https://archive.org/download/windows-vienna-starter-milestone-20
+Vienna Dock for Windows XP: https://archive.org/download/vienna-dock-2-0-crystalxp.net-17220
+
+## Windows 8 / 8.1
+Redpill files for Windows 8 build 8064 (fbl_eeap) (Version 2.0): https://archive.org/download/rpfiles-8064-eeap-v-2
+
+## Windows 11
+Mac Windows 11( 6.0.5384 Beta 2 X 64 Iso): https://archive.org/download/mac-windows-11-6.0.5384-beta-2-x-64-iso

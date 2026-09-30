@@ -1,0 +1,8 @@
+# Itens que estavam em "não são builds" mas são ISOs de Windows de verdade
+
+## Windows ME / Millennium
+Windows Me OEM: https://archive.org/download/english_windows_collection/Windows%20ME/Windows%20Me%20OEM/Windows%20Me.iso
+Windows Me Retail Upgrade: https://archive.org/download/english_windows_collection/Windows%20ME/Windows%20Me%20(Retail%20Upgrade%20Version)/Windows%20Me%20(Retail%20Upgrade%20Version).iso
+
+## Windows Server (2003+)
+Windows Small Business Server 2011: https://archive.org/download/windows-me_202207/Windows%20Server%20(Todos)/Windows%20Small%20Business%20Server%202011%20.iso

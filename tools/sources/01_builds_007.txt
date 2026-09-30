@@ -1,0 +1,105 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 007/013 — itens 601–700 de 1279
+
+## Windows Longhorn / Vista
+Windows Longhorn Build 4005 (x86): https://archive.org/download/6.0.4005.0.main.-030128-1920-x-86fre-client-professional-retail-en-us
+longhorn 4008 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204008%20(x86).iso
+Microsoft Windows Vista ('' Longhorn'' 6.0.4008.0) (beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4008.0-beta.-7z
+Windows Code Name "Longhorn" build 4008 I386 Repack + fixed DCE: https://archive.org/download/4008-i386-repack-fixed-dce
+Windows Longhorn Build 4008: https://archive.org/download/windows-longhorn-build-4008_202511
+Windows Longhorn Build 4008 (x86): https://archive.org/download/en-us_6.0.winlh.4008_x86fre_main
+Windows Longhorn 4011 Repack: https://archive.org/download/4011-repack
+Windows Longhorn Build 4011 (Fixed): https://archive.org/download/800px-windows-longhorn-6.0.4011-desktop
+Windows Longhorn Build 4011 (x86): https://archive.org/download/6.0.4011.0.main.-030305-2045-x-86fre-i-386repack
+longhorn 4015 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204015%20(x86).iso
+Microsoft Windows Vista ('' Longhorn'' 6.0.4015.0) (beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4015.0-beta.-7z
+Windows Longhorn 4015 Repack: https://archive.org/download/4015-repack
+Windows Longhorn (Build 4015): https://archive.org/download/LH4015
+Windows Longhorn (build 4015, VirtualBox): https://archive.org/download/windows-longhorn-build-4015
+Windows Longhorn Build 4015 ( Bootable Debombed): https://archive.org/download/windows-longhorn-build-4015-bootable-debombed
+Windows Longhorn Build 4015 (Bootable Fixed): https://archive.org/download/windows-longhorn-build-4015-bootable-fixed
+Windows Longhorn Build 4015 (main) (x86): https://archive.org/download/6.0.4015.0.main.-030328-1500-x-86fre-client-professional-en-us-lh-pro-4015
+Windows Longhorn Build 4015 (Milestone 5): https://archive.org/download/longhorn4015mlstne5
+Windows longhorn build 4015 x86 english: https://archive.org/download/windows-longhorn-build-4015-x86-english
+longhorn 4017 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204017%20(x86).iso
+Windows Longhorn Build 4017: https://archive.org/download/windowslonghornbuild4017
+Windows Longhorn Build 4017 (Fixed Bootable): https://archive.org/download/Windows-longhorn-6.0.4017
+Windows Longhorn Build 4017 (x86): https://archive.org/download/6.0.4017.0.main.-030409-0735-x-86fre-client-professional-en-us-lb-1-pfre-en
+longhorn 4020 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204020%20(x86).iso
+Windows Longhorn 4020 (i386 Repack): https://archive.org/download/windows-longhorn-4020-i386-repack
+Windows Longhorn Build 4020: https://archive.org/download/6.0.4020.idx02.030430-2218
+Windows Longhorn Build 4020 (Fixed Bootable): https://archive.org/download/Longhorn4020-BootFixed-ISO
+Windows Longhorn Build 4020 (x86): https://archive.org/download/6.0.4020.0.idx-02.030430-2218-x-86fre-client-professional-en-us-longhorn
+longhorn 4029 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204029%20(x86).iso
+Microsoft Windows Vista ('' Longhorn'' 6.0.4029.0) (beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4029.0-beta.-7z
+Windows Longhorn Build 4029 (lab06_n) (x86): https://archive.org/download/lh_4029_lab06_en_x86fre
+Windows Longhorn Build 4029 (Lab06_n.030629-1710): https://archive.org/download/6.0.4029.Lab06_n.030629-1710
+Windows Longhorn Build 4029 (lab06_n.030629-1710): https://archive.org/download/6.0.4020.idx02.030430-2218_202001
+Windows Longhorn Build 4029 (main): https://archive.org/download/windows-longhorn-build-4029-main
+Windows Longhorn Build 4029 (main) (x86): https://archive.org/download/6.0.4029.0.main.-030619-0000-x-86fre-client-professional-en-us
+longhorn 4030 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204030%20(x86).iso
+Windows Longhorn 4030.main/lab06: https://archive.org/download/longhorn4030mainlab06
+Windows Longhorn Build 4030 (Lab06_n.030630-1724) (x86): https://archive.org/download/6.0.4030.-lab-06-n.-030630-1724-x-86fre-client-professional-retail-en-us
+Windows Longhorn Build 4030 (Lab06_n.030702-1727) (x86): https://archive.org/download/6.0.4030.-lab-06-n.-030702-1727-x-86fre-client-professional-retail-en-us
+longhorn 4031 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204031%20(x86).iso
+Windows Longhorn Build 4031 (Lab06_n) (x86): https://archive.org/download/6.0.4031.0.lab-06-n.-030707-1834-x-86fre-client-professional-retail-en-us-lb-1-pfre-en
+Windows Longhorn Build 4031 (main): https://archive.org/download/winlonghorn4031
+Windows Longhorn Build 4031 (main): https://archive.org/download/wlcvm
+Windows Longhorn Build 4031 (main) (x86): https://archive.org/download/6.0.4031.main.-030703-0020-x-86fre-client-professional-retail-en-us
+longhorn 4032 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204032%20(x86).iso
+Windows Longhorn Build 4032 (fixed): https://archive.org/download/windows-longhorn-build-4032-fixed-iso
+Windows Longhorn Build 4032 (x86): https://archive.org/download/6.0.4032.0.lab-06-n.-030710-1709-x-86fre-client-professional-retail-en-us-longhorn_202404
+Windows Longhorn Build 4032 Fixed: https://archive.org/download/winlongb4032Fixed
+Windows Longhorn Build 4033: https://archive.org/download/6.0.4033.0.main.030717-1555_x86fre_client-professional_retail_en-us
+Windows Longhorn Build 4033 (main) (x86): https://archive.org/download/6.0.4033.main.-030717-1555-x-86fre-client-professional-retail-en-us
+Windows Longhorn Build 4038 (x86): https://archive.org/download/6.0.4038.main.-030813-1852-x-86fre-client-professional-retail-en-us
+Microsoft Windows Vista ('' Longhorn'' 6.0.4039.0) (Milestone 6, beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4039.0-beta.-7z
+Windows Longhorn Build 4039 (Lab06_n.030824-1954) (x86): https://archive.org/download/6.0.4039.0.lab-06-n.-030824-1954-x-86fre-client-professional-retail-en-us-lb-1-pfre-en
+Windows Longhorn Build 4039 (Lab06_n.030827-1717) (x86): https://archive.org/download/6.0.4039.-lab-06-n.-030827-1717-x-86fre-client-professional-retail-en-us
+Windows Longhorn Build 4042: https://archive.org/download/windows-longhorn-build-4042
+Windows Longhorn Build 4042 (Lab06_n): https://archive.org/download/longhornbuild4042lab06_n
+Windows Longhorn Build 4042 (Lab06_n) (x86): https://archive.org/download/6.0.4042.-lab-06-n.-030909-1709-x-86fre-client-professional-retail-en-us
+Windows Longhorn build 4042 (Lab06_n) I386 repack: https://archive.org/download/windows-longhorn-build-4042-lab06-n-i386
+Windows Longhorn Build 4042 (lab06_n.030909-1709): https://archive.org/download/6.0.4042.0.lab06_n.030909-1709
+Windows Longhorn Build 4042 (main) (x86): https://archive.org/download/6.0.4042.main.-030905-1800-x-86fre-client-professional-retail-en-us
+longhorn 4051 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204051%20(x86).iso
+Microsoft Windows Vista ('' Longhorn'' 6.0.4051.0) (beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4051.0-beta.-7z
+Windows Longhorn 4051 for Qemu: https://archive.org/download/windows-longhorn-4051.7z
+Windows Longhorn 4051 i386 reloaded: https://archive.org/download/lh.-4051.idx-02.031001-1340_202203
+Windows Longhorn 4051 i386 reloaded: https://archive.org/download/lh.-4051.idx-02.031001-1340
+longhorn 4074 x64: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204074%20(x64).iso
+Microsoft windows LONGHORN build 4074 R2: https://archive.org/download/microsoft-windows-longhorn-build-4074-r2-by-shrimparkmage
+Microsoft Windows Vista ('' Longhorn'' 6.0.4074.0) (Milestone 7,beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4074.0-beta.-7z
+Windows Codename Longhorn build 4074 TWIWMTB (The way it was meant to be): https://archive.org/download/4074_twiwmtb
+Windows Longhorn 4074: https://archive.org/download/windows-longhorn-4074
+windows longhorn 4074: https://archive.org/download/lh_usa_4074_x86fre_pro-dvd
+Windows Longhorn 4074 (x64 Beta): https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4074.0-x-64-beta
+Windows Longhorn 4074 Based Win 10: https://archive.org/download/windows-longhorn-4074-win-10
+Windows Longhorn 4074 for QEMU: https://archive.org/download/windows-longhorn-4074.7z
+longhorn 4083 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204083%20(x86).iso
+longhorn 4093 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204093%20(x86).iso
+Microsoft Windows Vista ('' Longhorn'' 6.0.4093.0) (Milestone 7, beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.4093.0-beta.-7z
+Windows Longhorn (Build 4093): https://archive.org/download/LH4093
+longhorn 5001 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%205001%20(x86).iso
+Microsoft Windows Vista ('' Longhorn'' 6.0.5048.0) (beta 1). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.5048.0-beta-1.-7z
+Windows Longhorn 5048: https://archive.org/download/windows-longhorn-5048
+Windows Longhorn 5048 for Vectras VM 2.9.1d: https://archive.org/download/windows-longhorn-5048_202407
+Windows Longhorn (build 5048): https://archive.org/download/windows-longhorn-build-5048_202208
+vista beta 5098 x86: https://archive.org/download/windows-me_202207/Windows%20Vista/Windows%20Vista%20Beta%20Build%205098%20(x86).iso
+Windows Longhorn 5098: https://archive.org/download/windows-longhorn-5098
+Microsoft Windows Longhorn Automated Installation Kit ( WAIK) Build 5112 Beta 1: https://archive.org/download/microsoftwindowslonghornautomatedinstallationkitwaikbuild5112beta1en
+Microsoft Windows Longhorn Beta 1 Tablet PC Input Panel Build 5112: https://archive.org/download/microsoftwindowslonghornbeta1tabletpcinputpanelbuild5112en
+Microsoft Windows Vista (Longhorn) Build 5112-6001 collection 41 files: https://archive.org/download/os-microsoft-windows-vista
+vista beta 5212 x86: https://archive.org/download/windows-me_202207/Windows%20Vista%20Beta%20Build%205212%20(x86).iso
+vista beta 5215 x86: https://archive.org/download/windows-me_202207/Windows%20Vista%20Beta%20Build%205215%20(x86).iso
+Windows Codename "Longhorn" build 5219: https://archive.org/download/longhorn-5219
+Microsoft Windows Vista Beta 2 (Build 5270) [ISO] Evaluation Copy: https://archive.org/download/Windows_Vista_Beta2_Build5270
+vista beta 5270 x86: https://archive.org/download/windows-me_202207/Windows%20Vista%20Beta%20Build%205270%20(x86).iso
+vista beta 5365 x86: https://archive.org/download/windows-me_202207/Windows%20Vista%20Beta%20Build%205365%20(x86).iso
+Microsoft Windows Vista Beta 2 (6.0.5384.4) WDK: https://archive.org/download/win-vista-beta-2-wdk
+vista beta 6001 x86: https://archive.org/download/windows-me_202207/Windows%20Vista%20Beta%20Build%206001%20(x86)%20.iso
+Microsoft Windows Vista Beta 2 x86 (DVD) [English] [X11-71068-02]: https://archive.org/download/Vista-Beta2-x86
+Microsoft Windows Vista Beta 2 x64 (DVD) [English] [X11-71069-02]: https://archive.org/download/Vista-Beta2-x64
+
+## Windows 7
+w7 beta collection x86/x64: https://archive.org/download/windows-7-beta-collection/Windows%207%20Betas,%20x64%20&%20x86.zip
+w7 rtm todas-edicoes ptbr x32/x64: https://archive.org/download/windows-me_202207/Windows%207/Windows%207%20RTM%20(Todas%20as%20edi%C3%A7%C3%B5es)%20(x64-x86).iso

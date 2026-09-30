@@ -1,0 +1,412 @@
+# recovered from the previous data/builds.js
+
+## Windows 1.x / 2.x / 3.x
+w3.0a unpacked archive: https://archive.org/download/microsoft-windows-3.0a-unpacked/Microsoft%20Windows%203.0a%20(Unpacked).rar
+w3.1: https://archive.org/download/windows-me_202207/Windows%203/Windows%203.1.ISO
+w3.1 Beta 1 SDK: https://archive.org/download/win-31-beta-1-sdk-wsdk-31-x/Win31Beta1SDK(WSDK31-X).rar
+w3.1 Beta 1 SDK alt: https://archive.org/download/win-31-beta-1-sdk-wsdk-31-x/Win31Beta1SDK_Alt(W31SDK-X).rar
+Windows For Workgroups 3.11 diskettes and Windows Chicago build 347 ISO: https://archive.org/download/disk-02_202212
+
+## Windows 95 / Chicago
+chicago beta 1: https://archive.org/download/windows-me_202207/Windows%20Chicago/Windows%20Chicago%20Beta%201.iso
+Microsoft Windows 95 (Chicago) - Build 58s: https://archive.org/download/windows-95-chicago-milestone-4-58s
+Microsoft Windows 95 (Chicago) - Build 73g: https://archive.org/download/windows-95-chicago-milestone-4-73g
+Microsoft Windows 95 (Chicago) and Plus Pack - Build 73g: https://archive.org/download/ms-win95-chicagopdk2-941220
+Microsoft Windows 95 - Beta 1.4: https://archive.org/download/ms-win95-beta1.4
+Microsoft Windows 95 Beta 2 - Retail Kit: https://archive.org/download/ms-win95-m7retail
+Microsoft Windows "Chicago" 95 pre-release: https://archive.org/download/chicopdk-2
+Microsoft Windows "Chicago/95" build 58s (4.00.58s) on VMware: https://archive.org/download/windowschic58s
+Microsoft Windows Chicago (95) Build 4.00 ISO: https://archive.org/download/microsoft-windows-95-chicago-4.00.166
+Supposed Windows 95 OSR 2.5 Beta (original SLiCeR leak) (READ DESCRIPTION): https://archive.org/download/win-95-cxx
+w95 rtm oem eng: https://archive.org/download/english_windows_collection/Windows%2095/Microsoft%20Windows%2095%20(OEM)%204.00.950%20(RTM)/Microsoft%20Windows%2095%20(OEM)%20(RTM).iso
+w95 sp2 ptbr: https://archive.org/download/windows-me_202207/Windows%2095/Windows%2095%20SP2%20PT-BR.iso
+w95a osr1 eng: https://archive.org/download/english_windows_collection/Windows%2095/Microsoft%20Windows%2095A%20(4.00.950%20OSR1)%20(1-16-1996)%20(OEM)/win95_a_oem.iso
+w95b osr2 eng: https://archive.org/download/english_windows_collection/Windows%2095/Microsoft%20Windows%2095B%20(4.00.1111)%20(OSR2)/windows95b.iso
+w95b osr2.1 eng: https://archive.org/download/english_windows_collection/Windows%2095/Microsoft%20Windows%2095B%20(4.10.1111)%20(OSR2.1)/win95_full_ar.osr2_en.iso
+w95c osr2.5 eng: https://archive.org/download/english_windows_collection/Windows%2095/Microsoft%20Windows%2095C%20(4.03.1216)%20(OSR2.5)%20(1997-11-26)/Win95_OSR25.iso
+Windows 95 - Beta release - International Versions - 10.28.94 [205284]: https://archive.org/download/205284
+Windows 95 Beta 0.1.3: https://archive.org/download/window-95-beta-0.1.3
+Windows 95 Beta 2 - 4.00.435_pc98fre_client_ja-jp: https://archive.org/download/4.00.435_pc98fre_client_ja-jp
+Windows 95 Beta - 4.00.428_x86fre_client_en-us: https://archive.org/download/english-us
+Windows 95 Final Beta Release: https://archive.org/download/final-beta
+Windows 95 OSR3 Beta 1 (unofficial mod): https://archive.org/download/windows-95-OSR3-beta1
+Windows 95 Structured Trial Program 2: https://archive.org/download/stp-2/STP2.ISO
+Windows Chicago build 40: https://archive.org/download/chicago-40-x-86
+Windows Chicago Build 56: https://archive.org/download/chicago-build-56-fixed
+Windows Chicago build 58s 86box Installation Kit: https://archive.org/download/usa_58s__x86fre.win_chicago
+Windows Chicago Build 58s (Full Color Support): https://archive.org/download/windows-chicago_202211
+Windows chicago build 58s hdd: https://archive.org/download/chicago-58-s-105-mb-kalok-kl-3100-copy
+Windows Chicago Build 73g With New Start Button: https://archive.org/download/windows-chicago-build-73g-with-new-start-button
+Windows Chicago Build 89e: https://archive.org/download/windows-chicago-build-89e_202309
+Windows Chicago build 90c: https://archive.org/download/chicago-90-c
+Windows Codename "Chicago" build 58s: https://archive.org/download/wcncb58s
+Windows Chicago Build 116 (Virtualbox): https://archive.org/download/windows-chicago-build-116
+Windows Chicago Beta 1 Build 122 (1994): https://archive.org/download/Win9xHardDisk
+Windows Chicago Build 122: https://archive.org/download/windows-chicago-build-122
+Windows Chicago Build 180 Fixed: https://archive.org/download/WindowsChicagoBuild180Fixed
+Windows 95 Beta 2 Build 216 images: https://archive.org/download/Windows-95_Beta-2_Build216_Images
+Microsoft Windows 95 - Migration Planning Kit - Final Beta (Build 347): https://archive.org/download/microsoft-windows-95-migration-planning-kit-final-beta
+Microsoft Windows 95 Final Beta - Build 347: https://archive.org/download/ms-win95-finalbeta-b347
+Windows 95 (Chicago) Build 347 (English): https://archive.org/download/windows-chicago-build-347-en-us
+Windows 95 Preview Program (Beta 3 Build 347) Upgrade: https://archive.org/download/win95previewprogram_beta3build347_upgrade
+Windows 95 (Chicago) Build 456 (English): https://archive.org/download/windows-chicago-build-456-en-us
+Windows 95 (Codename Chicago) Build 490 (Floppy Release): https://archive.org/download/mswin95chic_490_flop
+Windows 95 (Chicago) Build 501 (English): https://archive.org/download/windows-chicago-build-501-en-us
+Windows 95 Beta 3 Build 720 (English With Japanese Support) [VHD]: https://archive.org/download/Windows95Beta3Build720EnglishWithJapaneseSupportVHD
+Windows 95 Build 1034 (OSR2 BETA) (English): https://archive.org/download/windows-95-build-1034-en-us
+Windows 95 Build 1068 (OSR2 Beta) (English): https://archive.org/download/windows-95-build-1068-en-us
+Windows 95 Build 1078 (OSR2 Beta) (English): https://archive.org/download/windows-95-build-1078-en-us
+Windows 95 Build 1089 (OSR2 Beta) (English): https://archive.org/download/windows-95-build-1089-en-us
+Windows 95 OSR2 Beta (''Detroit'') build 1115 (Installable ISO): https://archive.org/download/detroit.ver-4.03.1115-english-InstallableISO
+Windows 95 build 1216 (Beta): https://archive.org/download/win95build1216beta
+Microsoft Windows 95 ( 4.00.89e) ( 1994-03-17) [ English] (CD) (beta): https://archive.org/download/microsoft-windows-95-4.00.89e-1994-03-17-english-cd-beta
+Microsoft Windows 95 ( 4.0.263) ( 1994 11 18) [ English] ( CD) (beta 2): https://archive.org/download/microsoft-windows-95-4.0.263-1994-11-18-english-cd-beta-2
+Microsoft Windows 95 Preview Program (''Chicago'' 4.00.347) (1995-03-24) (3.5'' DMF) (CD-ROM) (beta) [Multilanguage] [Pan European Edition]: https://archive.org/download/microsoft-windows-95-preview-program-chicago-4.00.347-1995-03-24-3.5-dmf-cd-rom-
+Windows 95 diskette, Longhorn 3718 and some components: https://archive.org/download/boot_20221208
+Microsoft Windows 95 (Chicago) Build 07200022/58s-950 collection 180 files: https://archive.org/download/microsoftwindowschicagobuild58s-950collection136files
+Windows 95/Chicago July 20th build/build 07200022 ISO: https://archive.org/download/3.10.07200022
+Windows Chicago 1992 Beta (Build 07200022): https://archive.org/download/chico1992beta
+Microsoft Windows 95 Beta 2 Release Japanese Retail Kit For PC-9800 Series April 1995: https://archive.org/download/microsoft-windows-95-beta-2-release-japanese-retail-kit-for-pc-9800-series-april-1995
+Microsoft Windows 95 Final Beta Release Japanese Retail Kit For PC-9800 Series July 1995: https://archive.org/download/microsoft-windows-95-final-beta-release-japanese-retail-kit-for-pc-9800-series-july-1995
+
+## Windows 98 / Memphis
+memphis dev release: https://archive.org/download/windows-me_202207/Windows%20Memphis/Windows%20Memphis%20Developer%20Release.iso
+Microsoft Windows 98 - Beta 3: https://archive.org/download/ms-win98-beta3
+Microsoft Windows 98 - Beta 3 (Korean): https://archive.org/download/2-1000433_01
+Microsoft Windows 98 Beta 1: https://archive.org/download/win98-beta-1
+Microsoft Windows 98 Beta Programm - German/French/Spanish/English: https://archive.org/download/ms-win98-betaprog-intl
+Microsoft Windows 98 Second Edition - NFR Technical Beta Special Edition: https://archive.org/download/ms-win98-se-techbeta-internal
+w98 fe ptbr: https://archive.org/download/windows-me_202207/Windows%2098/Windows%2098%20(FE)%20pt-br.iso
+w98 fe upgrade eng: https://archive.org/download/english_windows_collection/Windows%2098/First%20Edition%20Upgrade%20CD/Microsoft%20Windows%2098%20Upgrade%20(X03-30205)%20(1998).iso
+w98 se eng x32: https://archive.org/download/english_windows_collection/Windows%2098/Second%20Edition%20X86%20Bootable/Windows%2098%20Second%20Edition%20Full%20Bootable%20CD.iso
+w98 se ptbr: https://archive.org/download/Win98SE_PT-BR/Win98%20SE.iso
+Windows 98 Beta 3 (86box VM): https://archive.org/download/windows-98-beta-3
+Windows 98 Beta 3 (Chinese): https://archive.org/download/ms-win98-beta3-chs
+Windows 98 Beta 3 Nederlands (Dutch): https://archive.org/download/win98nl
+Windows 98 Beta ( Media Pack ): https://archive.org/download/windows-98-beta-start-windows
+Windows 98 FE (Memphis) beta builds: https://archive.org/download/memphis_fe_builds
+Windows 98 OEM Service Release-Second Edition Beta 1: https://archive.org/download/windows-98-oem-service-release-second-edition-beta-1
+Microsoft Windows Code Name 'Nashville' Build 999 collection 2 files: https://archive.org/download/microsoftwindowsnashvillebuild999collection2files
+Microsoft Windows Nashville Build 999: https://archive.org/download/windows-nashville
+Windows Codename "Nashville" Build 999: https://archive.org/download/wnb999
+Microsoft Windows 98 (Memphis) Build 1351-1998 collection 103 files: https://archive.org/download/microsoftwindowsmemphisbuild1351-1998collection73files
+Microsoft Windows 98 (Memphis) Pre-Beta - Build 1351: https://archive.org/download/windows-98-memphis-pre-beta-1351
+Windows 98 (''Memphis'' 4.10.1351 B0): https://archive.org/download/windows-98-memphis-4.10.1351-b0
+Microsoft Windows 98 ('' Memphis'') 4.10.1353 X 86fre Client En Us: https://archive.org/download/microsoft-windows-98-memphis-4.10.1353-x-86fre-client-en-us
+Microsoft Windows 98 Developer Release - Memphis build 1353: https://archive.org/download/memphis-1353
+Microsoft Windows 98 (Memphis) Pre-Beta - Build 1387: https://archive.org/download/windows-98-memphis-pre-beta-1387
+Windows 98 (''Memphis'' 4.10.1387 B0): https://archive.org/download/windows-98-memphis-4.10.1387-b0
+Microsoft Windows 98 (Memphis) Beta 1 - Build 1400: https://archive.org/download/hv-retro-windows-98-memphis-beta-1-build-1400
+Windows 98 (''Memphis'' 4.10.1400 B1): https://archive.org/download/windows-98-memphis-4.10.1400-b1
+Microsoft Windows 98 ( 4.10.1410) ( 1997 03 11) [ English] (beta 1): https://archive.org/download/microsoft-windows-98-4.10.1410-1997-03-11-english-beta-1
+Windows 98 (''Memphis'' 4.10.1488 B1): https://archive.org/download/windows-98-memphis-4.10.1488-b1
+Windows 98 (''Memphis'' 4.10.1511 B1): https://archive.org/download/windows-98-memphis-4.10.1511-b1
+Windows 98 (''Memphis'' 4.10.1525 B1): https://archive.org/download/windows-98-memphis-4.10.1525-b1
+Windows 98 (''Memphis'' 4.10.1532 B1): https://archive.org/download/windows-98-memphis-4.10.1532-b1
+Microsoft Windows 98 ( 4.10.1546) ( 1997 08 07) [ German] (beta 2): https://archive.org/download/microsoft-windows-98-4.10.1546-1997-08-07-german-beta-2
+Microsoft Windows 98 ( 4.10.1546) ( 1997 08 07) [Simplified Chinese] (beta 2): https://archive.org/download/media_iso_202107
+Microsoft Windows 98 Beta 2 - Build 1546: https://archive.org/download/win-98-1546
+Windows 98 (''Memphis'' 4.10.1546 B2): https://archive.org/download/windows-98-memphis-4.10.1546-b2
+Windows 98 beta 2 build 1546 vdi: https://archive.org/download/windows-98_202008
+Windows 98 Consumer Preview (Beta 3 Build 1546) (X03-53758): https://archive.org/download/windows98consumerpreview_beta3build1546_x0353758
+Windows 98 FE Build 1546 (Memphis) (English): https://archive.org/download/windows-memphis-build-1546-en-us
+Windows 98 Build 1559 Beta 2 English: https://archive.org/download/windows-98-beta-2-build-1559-english-cd
+Windows 98 Build 1569 (Memphis) (English): https://archive.org/download/windows-memphis-build-1569-en-us
+Microsoft Windows 98 Beta 2 Refresh - Build 1602: https://archive.org/download/win-98-1602
+Windows Codename "Memphis" Build 4.10.1602: https://archive.org/download/981602windows
+Windows 98 Beta 3 (Build 1624): https://archive.org/download/Win98Beta3Build1624
+Windows 98 Beta 3 (Build 1629) [VHD/VMDK]: https://archive.org/download/Win98Beta31629_VM
+Windows 98 Beta 3 (Build 1650) (Chinese) [VHD/VMDK]: https://archive.org/download/Win98Beta3Build1650Chinese_VM
+Windows 98 Beta 3 (Build 1650) (Chinese, Upgrade): https://archive.org/download/Win98Beta3_1650Chinese
+Windows 98 Beta 3 (Build 1650) [4 Languages]: https://archive.org/download/Win98Beta3Build1650inFOURLANGUAGES
+Windows 98 Beta 3 (Build 1650.8) (Chinese): https://archive.org/download/Win98Beta3Chinese
+Windows 98 Beta 3 Build 1650 Korean: https://archive.org/download/W98B3KOR
+Windows 98 build 1650.8 (Beta 3, Japanese, Korean, PC-9800, Traditional Chinese): https://archive.org/download/fareast-cpp
+Windows 98 Build 1650.8 (Memphis) (English): https://archive.org/download/windows-memphis-build-1650-dot-8-en-us
+Windows 98 Beta 3 (Build 1658): https://archive.org/download/usa_1658_win98.beta3_memphis
+Windows 98 Beta 3 (Build 1676) (Chinese): https://archive.org/download/Win98Beta3Build1676CHS
+Windows 98 Beta 3 (Build 1687): https://archive.org/download/Win98Beta31687
+Microsoft Windows 98 Beta RC4, Build 1910.2, Japanese: https://archive.org/download/microsoft-windows-98-beta-1910.2-jp
+Windows 98 Beta May 15 1998: https://archive.org/download/Windows98BetaMay151998
+Windows 98 Technical Beta Special Edition 05 15 1998 Microsoft CD: https://archive.org/download/windows-98-technical-beta-special-edition-05-15-1998-microsoft-cd
+Windows 98 Technical Beta Special Edition - 4.10.1998: https://archive.org/download/ms-win98-techbeta-1998
+Microsoft Windows 98 Year 2000 Update 1198 Part No X04 00614: https://archive.org/download/cdrom_Microsoft_Windows_98_Year_2000_Update_1198_Part_No_X04-00614
+Windows 98 FE SP1 Beta Build 2091 Taiwan: https://archive.org/download/cw98sp1
+Windows 98 Service Pack 1 Beta (Build 2091) [Trad. Chinese / Korean] [VMDK]: https://archive.org/download/Win98SP1Beta_2091VMDK
+Microsoft Windows 98 Second Edition Beta 1 - Build 2106: https://archive.org/download/ms-win98se-beta1-2106
+Windows 98 SE Beta Build 2106 For 86box: https://archive.org/download/windows-98-se-beta-build-2106.-7z
+Windows 98 Second Edition Beta (Build 2106): https://archive.org/download/Win98SEBetaBuild2106
+Windows 98 Second Edition Beta (Build 2126): https://archive.org/download/win98sebetabuild2126_202108
+Microsoft Windows 98 Second Edition Beta 2 - Build 2150: https://archive.org/download/ms-win98se-beta2-2150
+
+## Windows ME / Millennium
+Microsoft Windows Me - Technical Beta Special Edition: https://archive.org/download/windows-me_20221113
+Microsoft Windows ME Millennium Edition Upgrade 2000 Microsoft CD: https://archive.org/download/microsoft-windows-me-millennium-edition-upgrade-2000-microsoft-cd
+Microsoft Georgia (Windows ME Beta 2) Build 2470 IN Virtual PC 2007: https://archive.org/download/WinME-B2470-InVPC2007
+
+## Windows NT (3.x / 4.0 / Cairo)
+Microsoft Windows NT 3.1 Japanese RTM Beta 2: https://archive.org/download/microsoft-windows-nt-3.1-japanese-rtm-beta-2
+Microsoft Windows NT 3.5 Workstation - Beta 2, 3.5": https://archive.org/download/ms-winnt35-beta2-wks-floppies
+Microsoft Windows NT 3.51 Workstation Beta - Floppy disks release [Incomplete]: https://archive.org/download/ms-winnt351-wks-beta-fd
+Microsoft Windows NT 4.0 Enterprise Server - Beta 2: https://archive.org/download/ms-winnt40-entsrv-b2
+Microsoft Windows NT 4.0 Option Pack - Beta 3: https://archive.org/download/ms-winnt40-optpack-beta3
+Microsoft Windows NT 4.0 Option Pack Beta 3: https://archive.org/download/ms-winnt40-option-pack-beta3
+Microsoft Windows NT 4.0 Workstation - Beta: https://archive.org/download/ms-winnt-wks40-beta
+Microsoft Windows NT 4.0 Workstation Beta 2: https://archive.org/download/microsoft-windows-nt-4.0-workstation-beta-2
+Microsoft Windows NT 4.0 Workstation Beta 2 (Checked Build): https://archive.org/download/microsoft-windows-nt-4.0-workstation-beta-2-checked-build
+Microsoft Windows NT Server 3.5 - Beta RC2: https://archive.org/download/ms-winnt35-srv-rc2
+Microsoft Windows NT Workstation 5.0 Beta 1: https://archive.org/download/ntwks-50-a-microsoft-windows-nt-5.0-beta-1
+Microsoft Windows NT Workstation Version 4.0 Beta 2: https://archive.org/download/Microsoft_Windows_NT_Workstation_Version_4.0_Beta_2
+nt 3.51: https://archive.org/download/windows-me_202207/Windows%20NT/Windows%20NT%203.51.iso
+nt 4.0 embedded eng x32: https://archive.org/download/english_windows_collection/Windows%20NT%204.0/NT%204.0%20Embedded%20(4.00.1381.204)/winnt40.1381.embedded.x86.iso
+nt 4.0 srv eng: https://archive.org/download/english_windows_collection/Windows%20NT%204.0/NT%204.0%20Server%20(4.00.1381.1)%20SP1/en_winnt_4.0_svr.iso
+nt 4.0 wks: https://archive.org/download/windows-me_202207/Windows%20NT/Windows%20NT%204.iso
+Microsoft Windows NT 3.1 (build 297 beta/pre-release) - preinstalled VMDK image for VMware Workstation virtual machine: https://archive.org/download/windows-nt-3.1-build-297-pre-release-vmdk
+Microsoft Windows NT 3.1 Workstation (NT OS2 3.10.311) (1992) (beta): https://archive.org/download/microsoft-windows-nt-3.1-workstation-nt-os2-3.10.311-1992-beta
+Microsoft Windows NT 3.5 [3.50.807.1] (Korean Beta): https://archive.org/download/3.50.807.1-x-86fre-client-workstation-retail-ko-kr
+Microsoft Windows NT 4.0 Server Beta 2 (Build 1314): https://archive.org/download/ms-winnt40-srv-b2
+Microsoft Windows NT 4.0 Workstation Beta 2 (Build 1314): https://archive.org/download/ms-winnt40-b2
+Microsoft Windows NT Server 4.0 Beta 2 (Build 1314.1): https://archive.org/download/winntserver4beta2build1314
+Microsoft Windows NT 3.1 (1.239 December 1991 beta/pre-release) - preinstalled VMDK image for VMware Workstation virtual machine: https://archive.org/download/windows-nt-3.1-december-1991-pre-release-vmdk
+Microsoft Windows NT 3.1 (Comdex/October 1991 beta/pre-release) - preinstalled VMDK image for VMware Workstation virtual machine: https://archive.org/download/windows-nt-3.1-october-1991-pre-release-vmdk
+Microsoft Windows NT 3.1 Workstation (NT OS2 3.10.347) (1992-10) (beta): https://archive.org/download/microsoft-windows-nt-3.1-workstation-nt-os2-3.10.347-1992-10-beta
+Microsoft Windows NT, Beta October 1992 Boot Workaround: https://archive.org/download/WNT001_ZIP
+Microsoft Windows NT, Beta October 1992 Floppy Disk Bug Fix: https://archive.org/download/WNT004_ZIP
+Microsoft Windows NT, Beta October 1992 HP DeskJet Printer Fix: https://archive.org/download/WNT003_ZIP
+MSDN - BETA - Windows NT Workstation 5.0 Checked Debug Build, Beta 2 (Alpha) - September 1998 (Microsoft) (X03-87873): https://archive.org/download/msdn-beta-september-1998-x03-87873
+Microsoft Windows NT 5.0 (Windows 2000) Server - Beta 1: https://archive.org/download/ms-win2000-b1
+Microsoft Windows NT 5.0 (Windows 2000) Server - Beta 2: https://archive.org/download/ms-win2000-srv-b2
+Windows Installer 2.0 redistributable for Windows NT 4.0 & 2000: https://archive.org/download/instmsi2-nt-2k
+
+## Windows 2000
+srv2000 adv sp4 eng: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202000/Windows%202000%20Advanced%20Server%20SP4.iso
+w2000 pro rtm eng: https://archive.org/download/english_windows_collection/Windows%202000/RTM/W2PIS_EN.iso
+w2000 pro sp4 eng: https://archive.org/download/english_windows_collection/Windows%202000/SP4/EN_WIN2000_PRO_SP4.ISO
+w2000 pro sp4 ptbr: https://archive.org/download/windows-me_202207/Windows%202000/Windows%202000%20PRO%20SP4%20PT%20BR.ISO
+w2000 rtm: https://archive.org/download/windows-me_202207/Windows%202000/Windows%202000%20RTM.iso
+w2000 server sp1: https://archive.org/download/windows-me_202207/Windows%202000/Windows%202000%20Server%20SP1%20.ISO
+w2000 server sp2: https://archive.org/download/windows-me_202207/Windows%202000/Windows%202000%20Server%20SP2.iso
+w2000 server sp3: https://archive.org/download/windows-me_202207/Windows%202000/Windows%202000%20Server%20SP3.ISO
+Microsoft Windows 2000 Pre-Beta - Build 1515: https://archive.org/download/windows-2000-pre-beta-1515
+Windows 2000 build 1661 (Workstation): https://archive.org/download/ms-win-nt-5.0-wkstn-bld-1661
+Windows 2000 Build 1717: https://archive.org/download/Win2kBuild1717
+Windows 2000 Build 1738 (x86): https://archive.org/download/5.00.1738.1-x-86fre-client-workstation-retail-en-us
+Windows 2000 Build 1743 (x86): https://archive.org/download/5.00.1743.1-x-86chk-client-workstation-retail-en-us-ntwks-50-a
+Microsoft Windows 2000 Pro Beta 2 - Build 1877: https://archive.org/download/windows-2000-pro-beta-2-1877
+Microsoft Windows 2000 Server Beta 2 - Build 1877: https://archive.org/download/windows-2000-server-beta-2-1877
+Windows 2000 Beta 3 Build 1946 images: https://archive.org/download/Windows-2000_Beta-3_Build1946_Images
+Windows 2000 Build 1946: https://archive.org/download/windows-2000-build-1946
+Windows 2000 Professional Beta 3 Build 1946: https://archive.org/download/usa_1946_win2000.prol_beta3-rc0
+Windows 2000 Build 1964 (5.00.1964.1) En-US [ISO]: https://archive.org/download/5.00.1964.1-x-86fre-server-standardserver-retail-en-us-w-2-ksrvi-usa
+Windows 2000 Build 1964 (x86): https://archive.org/download/5.00.1964.1-x-86fre-server-standardserver-retail-en-us-w-2-ksrvi-usa_202408
+Windows 2000 Professional Beta 3 (Build 1969): https://archive.org/download/Win2000ProfessionalBeta3_1969
+Windows 2000 Professional Beta 3 Build 1969: https://archive.org/download/windows20005.00.1969professional
+Windows 2000 Professional Beta 3 Build 1983: https://archive.org/download/usa_1983.1_win2000.prol_beta3-rc0
+Windows 2000 Professional Beta 3 Build 1989: https://archive.org/download/usa_1989_win2000.prol_beta3
+Windows 2000 Server Beta 3 Build 1993: https://archive.org/download/windowsnt5.0.ver.5.0.1993.1.english
+Windows 2000 Professional Beta 3 Build 1994: https://archive.org/download/5.00.1994.1x86freclientprofessionalenusw2kproiusa
+Windows 2000 3 Editions Beta 3 Build 1999: https://archive.org/download/windows20003editionsbeta3build1999
+Microsoft Windows 2000 ''NT 5.0'' 5.00.1877.1 Professional Beta 2 German Deutsch: https://archive.org/download/nt5b2desk
+Microsoft Windows 2000 ( NT 5.0 5.00.2031.1 Professional B 3) ( ISO). 7z: https://archive.org/download/microsoft-windows-2000-nt-5.0-5.00.2031.1-professional-b-3-iso.-7z
+Microsoft Windows 2000 ('' NT 5.0'' 5.00.1585.1 Professional). 7z: https://archive.org/download/microsoft-windows-2000-nt-5.0-5.00.1585.1-professional.-7z
+Microsoft Windows 2000 ('' NT 5.0'' 5.0.1671.1) (Alpha Beta) [Japanese]: https://archive.org/download/microsoft-windows-2000-nt-5.0-5.0.1671.1-japanese-alpha-beta
+Microsoft Windows 2000 ('' NT 5.0'' 5.0.1671.1) [Japanese] (x86 Beta): https://archive.org/download/microsoft-windows-2000-nt-5.0-5.0.1671.1-japanese-x86-beta
+Microsoft Windows 2000 ('' NT 5.0'' 5.00.1946.1 Professional B 3). 7z: https://archive.org/download/microsoft-windows-2000-nt-5.0-5.00.1946.1-professional-b-3.-7z
+Microsoft Windows 2000 ('' NT 5.0'' 5.00.2000.3 Professional B 3). 7z: https://archive.org/download/microsoft-windows-2000-nt-5.0-5.00.2000.3-professional-b-3.-7z
+Microsoft Windows 2000 Advanced Server (Beta 3 RC 1 Build 2000)(1999): https://archive.org/download/Microsoft_Windows_2000_Advanced_Server_Beta_3_RC_1_Build_2000_1999
+Microsoft Windows 2000 Advanced Server Beta 3: https://archive.org/download/w-2-kasvi-usa
+Microsoft Windows 2000 Advanced Server Beta 3 RC1 - Build 2000: https://archive.org/download/ms-win2000-ads-beta3rc1-2000
+Microsoft Windows 2000 Advanced Server Edition: https://archive.org/download/X05-51199
+Microsoft Windows 2000 Advanced Server Edition with Service Pack 1: https://archive.org/download/X05-94925
+Microsoft Windows 2000 Advanced Server Edition with Service Pack 4: https://archive.org/download/X09-76302
+Microsoft Windows 2000 Beta 3 1999 CD: https://archive.org/download/microsoft-windows-2000-beta-3-1999-cd
+Microsoft Windows 2000 Beta 3 Collection (DEC Alpha): https://archive.org/download/w2k_beta3_collection
+Microsoft Windows 2000 Beta 3 Disc 1 Evaluation And Deployment Kit 1999 CD: https://archive.org/download/microsoft-windows-2000-beta-3-disc-1-evaluation-and-deployment-kit-1999-cd
+Microsoft Windows 2000 fast & easy: https://archive.org/download/microsoftwindows0000wemp_m2m6
+Microsoft Windows 2000 JDP Whistler Design Preview Event: https://archive.org/download/ms-winxp-whistler-design-preview-event
+Microsoft Windows 2000 MUI (ZH, NL, FR, DE, IT, JA, KO, ES, SV): https://archive.org/download/X05-68491
+Microsoft Windows 2000 MUI Pack (DE, ES, SV, NL, IT, KO, ZH): https://archive.org/download/X09-89672
+Microsoft Windows 2000 MUI Pack (FR, DE, ES, SV, NL, IT, KO, ZH): https://archive.org/download/X09-89688
+Microsoft Windows 2000 NL Dutch: https://archive.org/download/windows2000nldutch
+Microsoft Windows 2000 performance tuning technical reference: https://archive.org/download/microsoftwindows0000muel_i3e7
+Microsoft Windows 2000 Professional: https://archive.org/download/Win2000Pro
+Microsoft Windows 2000 Professional ( Retail Edition ): https://archive.org/download/microsoft-windows-2000-professional-retail-edition-.-7z
+Microsoft Windows 2000 Professional (Korean): https://archive.org/download/w-2-pfpp-ko
+Microsoft Windows 2000 Professional (Microsoft)(X04 99944) (1999): https://archive.org/download/Microsoft_Windows_2000_Professional_Microsoft_X04-99944_1999
+Microsoft Windows 2000 Professional Beta 3: https://archive.org/download/microsoft-windows-2000-professional-beta-3
+Microsoft Windows 2000 Professional Beta 3 Corporate Preview Program 1999 CD: https://archive.org/download/microsoft-windows-2000-professional-beta-3-corporate-preview-program-1999-cd
+Microsoft Windows 2000 Professional Chinese Traditional: https://archive.org/download/Win2000ProCHT
+Microsoft Windows 2000 Professional Edition: https://archive.org/download/X05-58835
+Microsoft Windows 2000 Professional Edition: https://archive.org/download/X05-59897
+Microsoft Windows 2000 Professional Edition: https://archive.org/download/X05-77617
+Microsoft Windows 2000 Professional SBSI: https://archive.org/download/X05-77877
+Microsoft Windows 2000 Professional Service Pack 4 Virtual Machine (VMware) (WinWorld): https://archive.org/download/Microsoft_Windows_2000_Professional_SP4_Virtual_Machine_VMware_WinWorld
+Microsoft Windows 2000 Professional Step by Step Interactive: https://archive.org/download/X05-77897
+Microsoft Windows 2000 Professional with Service Pack 1: https://archive.org/download/X06-02789
+Microsoft Windows 2000 Professional with Service Pack 3: https://archive.org/download/X09-01308
+Microsoft Windows 2000 Professional with Service Pack 3 (Korean): https://archive.org/download/X09-05353
+Microsoft Windows 2000 server: https://archive.org/download/isbn_9780735609884
+Microsoft Windows 2000 Server (1 4 Processor Edition)(1999)(X05 07185): https://archive.org/download/Microsoft_Windows_2000_Server_1-4_Processor_Edition_1999_X05-07185
+Microsoft Windows 2000 Server Beta 3: https://archive.org/download/w-2-ksrvi-usa
+Microsoft Windows 2000 Server Beta 3 Corporate Preview Program 1999 CD: https://archive.org/download/microsoft-windows-2000-server-beta-3-corporate-preview-program-1999-cd
+Microsoft Windows 2000 Server Edition: https://archive.org/download/X05-58418
+Microsoft Windows 2000 Server Edition: https://archive.org/download/X05-77764
+Microsoft Windows 2000 Server Edition: https://archive.org/download/X05-78667
+Microsoft Windows 2000 Server Edition: https://archive.org/download/X06-26364
+Microsoft Windows 2000 Server Edition with Service Pack 1: https://archive.org/download/X05-93562
+Microsoft Windows 2000 Server Edition with Service Pack 1: https://archive.org/download/X05-93720
+Microsoft Windows 2000 SP4 (winworldpc.com reupload): https://archive.org/download/win2ksp4-winworldpc
+MSDN - BETA - Windows 2000 Advanced Server Beta 3 RC1 (X86) May 1999 (Microsoft)(X04-73322): https://archive.org/download/msdn-beta-may-1999-x04-73322
+MSDN - BETA - Windows 2000 Advanced Server RC2 (x86) (German) December 1999 (Microsoft) (X05-30707): https://archive.org/download/msdn-beta-december-1999-x05-30707
+MSDN - BETA - Windows 2000 Advanced Server RC2 (X86) October 1999 (Microsoft)(X05-05212): https://archive.org/download/msdn-beta-october-1999-x05-05212
+MSDN - BETA - Windows 2000 Professional Beta 3 (Alpha) June 1999 (Microsoft)(X04-77985): https://archive.org/download/msdn-beta-june-1999-x04-77985
+MSDN - BETA - Windows 2000 Professional Beta 3 (X86) - June 1999 (Microsoft)(X04-77990): https://archive.org/download/msdn-beta-june-1999-x04-77990
+MSDN - BETA - Windows 2000 Professional Beta 3 RC1 (Alpha) May 1999 (Microsoft)(X04-73319): https://archive.org/download/msdn-beta-may-1999-x04-73319
+MSDN - BETA - Windows 2000 Professional Checked Debug RC1(X86) August 1999 (Microsoft)(X04-95186): https://archive.org/download/msdn-beta-august-1999-x04-95186
+MSDN - BETA - Windows 2000 Professional Debug Build Beta 3 (Alpha) June 1999 (Micosoft)(X04-77991): https://archive.org/download/msdn-beta-june-1999-x04-77991
+MSDN - BETA - Windows 2000 Professional RC1 (Alpha) August 1999 (Microsoft)(X04-95185): https://archive.org/download/msdn-beta-august-1999-X04-95185
+MSDN - BETA - Windows 2000 Professional RC2 (x86) October 1999 (Microsoft)(X05-05217): https://archive.org/download/msdn-beta-october-1999-x05-05217
+MSDN - BETA - Windows 2000 Professional RC2 (x86)(German) December 1999 (Microsoft)(X05-30701): https://archive.org/download/msdn-beta-december-1999-x05-30701
+MSDN - BETA - Windows 2000 Server Beta 3 (Alpha) June 1999 (Microsoft)(X04-77987): https://archive.org/download/msdn-beta-june-1999-x04-77987
+MSDN - BETA - Windows 2000 Server Beta 3 (x86) - June 1999 (Microsoft)(X04-77986): https://archive.org/download/msdn-beta-june-1999-x04-77986
+MSDN - BETA - Windows 2000 Server Beta 3 RC1 (Alpha) Build 2000 -May 1999 (Microsoft)(X04-73321): https://archive.org/download/msdn-beta-may-1999-x04-73321
+MSDN - BETA - Windows 2000 Server RC2 (x86) (German) December 1999 (Microsoft)(X05-30706: https://archive.org/download/msdn-beta-december-1999-x05-30706
+MSDN - BETA - Windows 2000 Support Tools for Beta 3 - June 1999 (Microsoft)(X04-84981): https://archive.org/download/msdn-beta-june-1999-x04-84891
+MSDN - Disc 5 - Windows 2000 Advanced Server (German) February 2000 (Microsoft)(X05-44928): https://archive.org/download/msdn-disc5-february-2000-x05-44928
+MSDN Windows 2000 Pro Disc 10 October 2000: https://archive.org/download/MSDN_Windows_2000_Pro_Disc_10_October_2000
+Windows 2000: https://archive.org/download/windows-2000_202508
+Windows 2000: https://archive.org/download/windows-2000_202605
+Windows 2000 2: https://archive.org/download/tucows_51508_Windows_2000_2
+Windows 2000 200003: https://archive.org/download/windows-2000_20260205
+Windows 2000 (VM OVA File): https://archive.org/download/vm2000ova_vm7dec2023
+Windows 2000 Advanced Server: https://archive.org/download/windows-2000-advanced-server
+Windows 2000 Advanced Server: https://archive.org/download/windows-2000-advanced-server_202601
+Windows 2000 Advanced Server (EVAL): https://archive.org/download/w-2-aevl-de
+Windows 2000 Advanced Server CDBOOT: https://archive.org/download/cdboot-1_202407
+Windows 2000 Advanced Server RTM: https://archive.org/download/windows-2000-advanced-server_202602
+Windows 2000 Advanced Server RTM (Chinese): https://archive.org/download/Win2000AdvancedServerRTMCHS
+Windows 2000 Advanced Server Service Pack 2 Update: https://archive.org/download/win-2k-sp-2-u_20260220
+Windows 2000 Advanced Server SP4 - Español: https://archive.org/download/w2k-advsrv-sp4-esp
+Windows 2000 Advanced Server, Beta 3 (Alpha): https://archive.org/download/win2000b3alpha
+Windows 2000 and Windows Me ISO and Boot Disk: https://archive.org/download/windows-3.1_202110
+Windows 2000 automated deployment and remote administration: https://archive.org/download/windows2000autom0000ande
+Windows 2000 Beta 2 for Alpha AXP (5.00.1877.1) - English (United States), Japanese: https://archive.org/download/5.00.1877.1_axp
+Windows 2000 bản Pro RTM Retail Full: https://archive.org/download/w-2-pis-en_202508
+Windows 2000 Custom Support Updates (All Languages): https://archive.org/download/windows2000-csu-updates
+Windows 2000 Datacenter Server RTM OEM (with SP1): https://archive.org/download/windows-2000-datacenter-server
+Windows 2000 Datacenter Server SP1: https://archive.org/download/Win2000DatacenterServerSP1
+Windows 2000 Datacenter Server SP1 for Limbo/Qemu: https://archive.org/download/windows2000dataserversp14limbo
+Windows 2000 Datacenter Server SP3: https://archive.org/download/Win2000DatacenterServerSP3
+Windows 2000 Datacenter Server SP4: https://archive.org/download/datacenter_32
+Windows 2000 Datacenter Server SP4 OEM Full: https://archive.org/download/5.00.2195.6717-x-86fre-dtcserver-en-us
+Windows 2000 Dollar Tree Edition: https://archive.org/download/windows-2000-dollar-tree-edition
+Windows 2000 Embedded: https://archive.org/download/windows-2000-embedded
+Windows 2000 Extended Kernel versions: https://archive.org/download/windows-2000-kb-935839-v-31-m-x-86-enu
+Windows 2000 HFSLIP By 黒翼猫: https://archive.org/download/windows2000-hfslip
+Windows 2000 HFSLIP By 黒翼猫 Completed ISO Image (English version): https://archive.org/download/windows2000-hfslip-english-finished
+Windows 2000 HFSLIP By 黒翼猫 Completed ISO Image (Japanese version): https://archive.org/download/windows2000-hfslip-finished
+Windows 2000 High Encryption Pack Beta 3 (Microsoft)(1999): https://archive.org/download/Windows_2000_High_Encryption_Pack_Beta_3_Microsoft_1999
+Windows 2000 Home Edition Project beta v.1.0: https://archive.org/download/2000-sp-4-2025-v.-2250
+Windows 2000 Home Edition Project beta v.1.1: https://archive.org/download/2250-ie-6.0-full
+Windows 2000 ISO: https://archive.org/download/windows-2000_202604
+Windows 2000 KB835732 italian and english: https://archive.org/download/windows2000englishanditalianlkb
+Windows 2000 Personal SP4 (MOD): https://archive.org/download/en_win2000_personal_with_sp4
+Windows 2000 Post-SP4 Collection (Updated until April 2016): https://archive.org/download/win2k20120415.53752
+Windows 2000 Pro: https://archive.org/download/win-rar-archive
+Windows 2000 Pro ENG: https://archive.org/download/zrmpupg-en
+Windows 2000 Pro SP1 from Windowstan: https://archive.org/download/windowstan-windows-2000-professional-sp-1-english
+Windows 2000 Professional: https://archive.org/download/win-2-k-pro
+Windows 2000 Professional: https://archive.org/download/windows-2000-professional_20250723
+Windows 2000 Professional: https://archive.org/download/windows-2000-professional_20260113
+Windows 2000 Professional: https://archive.org/download/Windows2000Professional_201710
+Windows 2000 Professional & Server - CD Ayuda para Toma de Decisiones: https://archive.org/download/w-2000-crk
+Windows 2000 Professional - Actualización: https://archive.org/download/X05-11273_ES
+Windows 2000 Professional - EN-US: https://archive.org/download/w-2-pfpp-en.-7z_202207
+Windows 2000 Professional / Server (Italian): https://archive.org/download/windows-2000-professional-server-italian
+Windows 2000 Professional / Windows 2000 Server (Dutch): https://archive.org/download/win2000-pro-server-dutch
+Windows 2000 Professional Beta 3 build 5.00.1946.1 (It has no timebomb): https://archive.org/download/win2000b31946
+Windows 2000 Professional Beta 3 RC3 Build 2000: https://archive.org/download/windows2000.ver.5.0.2000.3.english
+Windows 2000 Professional Beta 3 Release Candidate 1 (Microsoft)(1999): https://archive.org/download/Windows_2000_Professional_Beta_3_Release_Candidate_1_Microsoft_1999
+Windows 2000 Professional Beta 3 Release Candidate 1 (x86), Build 2000: https://archive.org/download/x04-73318
+Windows 2000 Professional Beta 3 Release Candidate 1 Build 2000: https://archive.org/download/windowsnt5.0.ver.5.0.2000.1.english
+windows 2000 professional full updated danish: https://archive.org/download/windows-2000-professional_202101
+Windows 2000 Professional Greek: https://archive.org/download/windows-2000-professional-greek
+Windows 2000 professional Greek: https://archive.org/download/windows-2000-professional-greek_202210
+Windows 2000 Professional iso.: https://archive.org/download/windows-2000-professional_20260629
+Windows 2000 Professional Ita Beta 3: https://archive.org/download/windows-2000-professional-ita-beta-3
+Windows 2000 Professional OEM Greek: https://archive.org/download/windows-2000-professional-oem-greek
+Windows 2000 Professional Platinum 2004 (Spanish): https://archive.org/download/Windows2000ProPlatinum2004Spanish
+Windows 2000 Professional Platinum (Spanish): https://archive.org/download/W2PPLTNM_ES
+Windows 2000 Professional Plus Español: https://archive.org/download/windows-2000-professional-plus-espanol
+Windows 2000 Professional Polish: https://archive.org/download/Windows2000ProPolish
+Windows 2000 Professional RTM (Danish): https://archive.org/download/Win2000ProRTMDanish
+Windows 2000 Professional RTM (Dutch): https://archive.org/download/Win2000ProRTMNLD
+Windows 2000 Professional RTM (German) [Select]: https://archive.org/download/Win2000ProRTMDEUSEL
+Windows 2000 Professional RTM (Greek): https://archive.org/download/Win2000ProRTMGreek
+Windows 2000 Professional RTM (Japanese): https://archive.org/download/Win2000ProRTMJPN
+Windows 2000 Professional RTM (Korean): https://archive.org/download/Win2000ProRTMKOR
+Windows 2000 Professional RTM (Portuguese) [OEM]: https://archive.org/download/Win2000ProRTMPTGOEM
+Windows 2000 Professional SP1 (Greek) [OEM]: https://archive.org/download/Win2000ProSP1ELL
+Windows 2000 Professional SP2 OEM (French): https://archive.org/download/Windows2000ProSP2OEMFrench
+Windows 2000 Professional SP3 English ISO [OEM]: https://archive.org/download/win_2000_professional_sp3_english_202605
+Windows 2000 Professional SP4: https://archive.org/download/Win2KProSP4
+Windows 2000 Professional SP4 (Dutch): https://archive.org/download/Win2000ProSP4NL
+Windows 2000 Professional SP4 (German) [OEM]: https://archive.org/download/Win2000ProSP4DEUOEM
+Windows 2000 Professional SP4 (Hebrew): https://archive.org/download/Win2000ProSP4HEB
+Windows 2000 Professional SP4 (Japanese): https://archive.org/download/Windows2000ProSP4Japan
+Windows 2000 Professional SP4 (OEM) Italian Alternate: https://archive.org/download/Win2000ProITA-OEM-Alt
+Windows 2000 Professional SP4 (OEM) Italian Alternate 2: https://archive.org/download/Win2000ProITA-OEM-Alt2
+Windows 2000 Professional SP4 (Polish): https://archive.org/download/Win2000ProSP4PL
+Windows 2000 Professional SP4 (Polish) [Select]: https://archive.org/download/Win2000ProSP4PLSEL
+Windows 2000 Professional SP4 (Portuguese - Brazil): https://archive.org/download/Win2000ProSP4PTBR
+Windows 2000 Professional SP4 (Russian): https://archive.org/download/Win2000ProSP4Russian
+Windows 2000 Professional SP4 (Spanish, July 2003): https://archive.org/download/Win2000ProSP4ESPJuly2003
+Windows 2000 Professional SP4 BlackWingCat Edition: https://archive.org/download/w-2-k-bwc-dvd-rc-14a-en
+Windows 2000 Professional SP4 Português Brasileiro: https://archive.org/download/windows-2000-professional_20251118
+Windows 2000 Professional SP4 Renewed (Italian): https://archive.org/download/w-2-kpro-ita-new
+Windows 2000 Professional SP4+ Reload2 (Chinese): https://archive.org/download/Win2000ProSP4PlusReload2CHS
+Windows 2000 Professional SP 3: https://archive.org/download/windows-2000-professional-sp-3
+Windows 2000 Professional SP 4: https://archive.org/download/windows-2000-professional-sp-4
+Windows 2000 Professional SP 4 German X 86 ISO File: https://archive.org/download/windows-2000-professional-sp-
+Windows 2000 Professional with Service Pack 4 (Czech): https://archive.org/download/Win2000ProSP4CZ
+Windows 2000 Professional with SP2 (Dutch): https://archive.org/download/Win2000ProSP2NLD
+Windows 2000 Professional with SP3 (Swedish): https://archive.org/download/Win2000ProSP3SVE
+Windows 2000 Professional with SP4 (Polish) [IBM OEM]: https://archive.org/download/Win2000ProfessionalSP4IBMOEMPolish
+Windows 2000 professionnel et Windows 98 : les fonctions de base: https://archive.org/download/windows2000profe0000sava
+Windows 2000 Professionnel SP4 x86 Français: https://archive.org/download/windows-2000-professionnel-sp4-x86-francais
+Windows 2000 Project 1946 Edition [Alpha]: https://archive.org/download/w2k-project1946-en-alpha
+Windows 2000 registry: https://archive.org/download/windows2000regis0000wall
+Windows 2000 Russian: https://archive.org/download/win2000_2195.ru_oem
+Windows 2000 scripting bible: https://archive.org/download/windows2000scrip00stan
+Windows 2000 Second Edition: https://archive.org/download/win-2-kse
+Windows 2000 Server: https://archive.org/download/2405182311010002
+Windows 2000 Server: https://archive.org/download/windows2000serve0000bosw
+Windows 2000 Server: https://archive.org/download/Windows2000Server_20180102
+Windows 2000 Server: https://archive.org/download/Windows_2000_Server
+Windows 2000 server architecture and planning: https://archive.org/download/windows2000serve00niel
+Windows 2000 Server Beta 3 (Build 2000): https://archive.org/download/usa_2000_win2000.srv_beta3
+Windows 2000 Server Beta 3 Release Candidate 1 (Microsoft)(1999): https://archive.org/download/Windows_2000_Server_Beta_3_Release_Candidate_1_Microsoft_1999
+Windows 2000 server bible: https://archive.org/download/windows2000serve00jimb_0
+Windows 2000 Server Family Maybe: https://archive.org/download/windows-2000-server-family-maybe
+Windows 2000 Server Family SP4 Lite (Russian): https://archive.org/download/win2000serversp4literussian
+Windows 2000 Server Português Brasileiro: https://archive.org/download/windows-2000-server_202511
+Windows 2000 Server RTM (Dutch): https://archive.org/download/Win2000ServerRTMNLD
+Windows 2000 Server RTM (French): https://archive.org/download/Win2000ServerRTMFRN
+Windows 2000 Server RTM (German): https://archive.org/download/Win2000ServerRTMDEU
+Windows 2000 Server RTM (Hungarian): https://archive.org/download/Win2000ServerRTMHUN
+Windows 2000 Server SP4 - Español: https://archive.org/download/w2k-srv-sp4-esp
+Windows 2000 Server SP4 English ISO [Retail]: https://archive.org/download/win_2000_server_sp4_english_202605
+Windows 2000 Server SP 4: https://archive.org/download/windows-2000-server-sp-4.7z
+Windows 2000 Server with Service Pack 4 (Czech): https://archive.org/download/Win2000ServerSP4CZE
+Windows 2000 SP1 (Chinese): https://archive.org/download/Win2000SP1CHS
+Windows 2000 SP2 (Korean) [ISO Collection]: https://archive.org/download/Win2000SP2KORISOCollection
+Windows 2000 SP3 (Japanese): https://archive.org/download/Win2000SP3JPN
+Windows 2000 SP4 3in1 (Spanish): https://archive.org/download/Win2000SP43in1ESP
+Windows 2000 SP4 5in1 Fully Updated (English): https://archive.org/download/windows-2000-sp4-en-fully-updated
+Windows 2000 SP4 (Update) (Multiple Languages): https://archive.org/download/w2ksp4_update_for_othr_languages
+Windows 2000 sp4 lite español: https://archive.org/download/win2000sp4lite
+Windows 2000 SP4 PL: https://archive.org/download/windows-2000-sp4-pl_202408
+Windows 2000 SP4 x86 Greek update installer: https://archive.org/download/win2k_sp4_ell_x86
+Windows 2000 SP 3 Update: https://archive.org/download/windows-2000-sp-3-update
+Windows 2000 SP 4 Retail Full Install Bootable ISO For ISO Download: https://archive.org/download/windows-2000-sp-4-retail-full-install-bootable-iso-for-iso-download
+Windows 2000 Super Lite (Multilanguage): https://archive.org/download/win-2k-super-lite-cn

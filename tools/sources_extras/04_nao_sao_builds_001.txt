@@ -1,0 +1,105 @@
+# ITENS QUE NÃO SÃO BUILDS DE WINDOWS — parte 001/004 — itens 1–100 de 387
+
+## Steam BETA (arquivos de cliente p/ Win 7/8)
+Steam December 20th, 2023 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-12202023-beta-build
+Steam April 10th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-04102024-beta-build
+Steam April 16th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-04162024-beta-build
+Steam April 22nd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-04222024-beta-build
+Steam April 26th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-04262024-beta-build
+Steam April 29th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-04292024-beta-build
+Steam April 30th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-04302024-beta-build
+Steam August 13th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-08132024-beta-build
+Steam August 19th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-08192024-beta-build
+Steam August 22nd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-08222024-beta-build
+Steam August 23rd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-08232024-beta-build
+Steam August 28th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-08282024-beta-build
+Steam Beta - January 28 2024 (compatible with Windows 7, 8 and 8.1): https://archive.org/download/steam-beta-01282024
+Steam February 2nd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02022024-beta-build
+Steam February 6th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02062024-beta-build
+Steam February 9th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02092024-beta-build
+Steam February 13th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02132024-beta-build
+Steam February 14th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02142024-beta-build
+Steam February 16th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02162024-beta-build
+Steam February 20th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02202024-beta-build
+Steam February 22th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02222024-beta-build
+Steam February 23rd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02232024-beta-build
+Steam February 26th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-02262024-beta-build
+Steam January 3rd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01032024-beta-build
+Steam January 8th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01082024-beta-build
+Steam January 10th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01102024-beta-build
+Steam January 18th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01182024-beta-build
+Steam January 19th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01192024-beta-build
+Steam January 24th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01242024-build
+Steam January 27th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01272024-beta-build
+Steam January 30th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-01302024-beta-build
+Steam July 2nd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-07022024-beta-build
+Steam July 10th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-07102024-beta-build
+Steam July 16th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-07162024-beta-build
+Steam July 19th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-07192024-beta-build
+Steam July 22nd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-07222024-beta-build
+Steam July 26th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-07262024-beta-build
+Steam July 30th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-07302024-beta-build
+Steam June 7th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06072024-beta-build
+Steam June 10th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06102024-beta-build
+Steam June 14th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06142024-beta-build
+Steam June 16th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06162024-beta-build
+Steam June 18th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06182024-beta-build
+Steam June 19th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06192024-beta-build
+Steam June 21st, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06212024-beta-build
+Steam June 24th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06242024-beta-build
+Steam June 26th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06262024-beta-build
+Steam June 27th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06272024-beta-build
+Steam June 28th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-06282024-beta-build
+Steam March 6th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03062024-beta-build
+Steam March 8th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03082024-beta-build
+Steam March 11th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03112024-beta-build
+Steam March 12th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03122024-beta-build
+Steam March 18th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03182024-beta-build
+Steam March 22nd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03222024-beta-build
+Steam March 27th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03272024-beta-build
+Steam March 29th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-03292024-beta-build
+Steam May 3rd, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05032024-beta-build
+Steam May 4th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05042024-beta-build
+Steam May 15th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05152024-beta-build
+Steam May 16th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05162024-beta-build
+Steam May 17th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05172024-beta-build
+Steam May 18th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05182024-beta-build
+Steam May 24th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05242024-beta-build
+Steam May 29th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05292024-beta-build
+Steam May 30th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05302024-beta-build
+Steam May 31st, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-05312024-beta-build
+Steam September 6th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-09062024-beta-build
+Steam September 9th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-09092024-beta-build
+Steam September 10th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-09102024-beta-build
+Steam September 13th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-09132024-beta-build
+Steam September 16th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-09162024-beta-build
+Steam September 17th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-09172024-beta-build
+Steam September 18th, 2024 BETA build, archived for Windows 7, 8, and 8.1 compatibility: https://archive.org/download/steam-09182024-beta-build
+Steam December 4th, 2025 BETA build, ported to Windows 7 and 8.x: https://archive.org/download/steam-dec-4-2025-windows7-8
+
+## MSDN / TechNet / documentos / conferências
+Microsoft Developer Network INTL Windows 95 East Asian Beta Releases (Disc 23)(August 1995): https://archive.org/download/Microsoft_Developer_Network_INTL_Windows_95_East_Asian_Beta_Releases_Disc_23_Aug
+Microsoft Developer Network INTL Windows 95 East Asian Development Toolkit Beta Release (Disc 24)(August 1995): https://archive.org/download/Microsoft_Developer_Network_INTL_Windows_95_East_Asian_Development_Toolkit_Beta
+Microsoft Developer Network INTL Windows 95 International Beta Releases May 1995 (Disc 8 of 19)(July 1995): https://archive.org/download/Microsoft_Developer_Network_INTL_Windows_95_International_Beta_Releases_May_1995
+MSDN - Disc 0528.1 - MSIE 5.5 SP1, Windows 98 Versions, Windows ME, Windows 2000 Versions (French) July 2001 (Microsoft) (X08-30313): https://archive.org/download/msdn-disc0528.1-july-2001-x08-30313
+MSDN August 1997, BETA, Windows 98 Beta 2: https://archive.org/download/win-98-beta-2
+MSDN March 1998, Windows 98 Beta 3 (French, German, Spanish) INTL: https://archive.org/download/win-98-beta-3-intl
+MSDN - BETA - Microsoft Internet Explorer and Internet Tools Beta, Windows ME Beta 3 - June 2000 (Microsoft)(X05-77560): https://archive.org/download/msdn-beta-june-2000-x05-77560
+MSDN - Disc 1 - Win 98 Versions, Windows ME, Windows 2000 Versions (French) September 2000 (Microsoft) (X06-02231): https://archive.org/download/msdn-disc1-september-2000-x06-02231
+MSDN - Disc 3 - Win 98 Versions, Windows ME, Windows 2000 Versions (Italian) October 2000 (Microsoft) (X06-08070): https://archive.org/download/msdn-disc3-october-2000-x06-08070
+Microsoft Developer Network (MSDN) Premium Release - BackOffice 2.0 and Windows NT Server 4.0 Pre-Release: https://archive.org/download/msdn-premium-1996-bo20-nt40srv-beta
+Microsoft Developer Network (MSDN) Premium Release - Windows NT 3.51 Beta: https://archive.org/download/msdn-premium-1995-nt351beta
+Microsoft Developer Network (MSDN) Premium Release - Windows NT 4.0 Beta 2: https://archive.org/download/msdn-premium-1996-nt40beta2
+MSDN Microsoft Developer Network - Development Platform - Premium Release - Windows NT Workstation 3.51 BETA: https://archive.org/download/CDRM-1294720
+[DOC] MSDN April 1994 - Windows NT 3.5 Beta inclusion notes: https://archive.org/download/ms-doc-msdn-9404-winnt35beta-inclusion-notes
+[DOC] MSDN April 1994 - Windows NT 3.5 Beta notes: https://archive.org/download/ms-doc-msdn-9404-winnt35beta-notes
+MSDN - Development Platform - Premium Release - Windows NT Workstation BETA - 1994 (Microsoft): https://archive.org/download/msdn-premium-release-Beta-1995-0394-NT351LNR
+MSDN - Disc 1 - Premium Release - Windows NT Workstation 4.0 Beta 2 - 1996 (Microsoft) (0496 Part No. 91074): https://archive.org/download/msdn-disc1-premium-release-0496-partno-91074
+MSDN - BETA - Windows NT 5.0 DDK (for Windows NT 5.0 Beta 2) -September 1998 (Microsoft) (X03-85601): https://archive.org/download/msdn-beta-september-1998-x03-85601
+3rd Large Installation System Administration of Windows NT/2000 Conference Proceedings: https://archive.org/download/2000-proceedings-3rd-lisawindows-nt-seattle
+MSDN - Disc 5 - System Stress 1.0 for Windows NT 4.0 and Windows 2000 - January 2000 (Microsoft) (X05-37155): https://archive.org/download/msdn-disc5-january-2000-x05-37155
+MSDN - Disc 8 - System Stress 1.0 for Windows NT 4.0 and Windows 2000 - August 1999 (Microsoft)(X04-95179): https://archive.org/download/msdn-disc8-august-1999-x04-95179
+MSDN - Disc 10 -System Stress for Windows NT 4.0 and Windows 2000 Version 1.0 - February 2000 (Microsoft) (X05-48788): https://archive.org/download/msdn-disc10-february-2000-x05-48788
+DTIC ADA288572: Ada Compiler Validation Summary Report: Certificate Number 940902S1.11376. UNISYS Corporation IntegrAda for Windows NT, Version 1.0. Intel Deskside Server for Intel Pentium 60 MHz =>. Intel Deskside Server with Intel Pentium 60 MHz,: https://archive.org/download/DTIC_ADA288572
+DTIC ADA288571: Ada Compiler Validation Summary Report: Certificate Number 940902S1.11377 UNISYS Corporation. IntegrAda for Windows NT, Version 1.0. Intel Deskside Server with Intel 80486DX266 => Intel Deskside Server with Intel 80486DX266,: https://archive.org/download/DTIC_ADA288571
+Microsoft Developer Network INTL Windows NT 3.51 DDK Beta Release Japanese (Disc 26)(318 056 047)(69589)(January 1996): https://archive.org/download/Microsoft_Developer_Network_INTL_Windows_NT_3.51_DDK_Beta_Release_Japanese_Disc

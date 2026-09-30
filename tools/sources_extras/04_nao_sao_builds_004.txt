@@ -1,0 +1,89 @@
+# ITENS QUE NÃO SÃO BUILDS DE WINDOWS — parte 004/004 — itens 301–387 de 387
+
+## Softwares, jogos e outros (não são build de Windows)
+Trying To Get Windows 2000: https://archive.org/download/trying-to-get-windows-2000
+Updates for Windows 2000 SP4 (German): https://archive.org/download/Win2000SP4DEUUpdates
+Updates: Microsoft Windows 2000 Multilingual (flersproget): https://archive.org/download/windows2000updates24
+Virus warning + destroying Windows 2000 on a real computer!: https://archive.org/download/virus-warning-destroying-windows-2000-on-a-real-computer
+Will Windows 2000 run on a Core 2 Quad?: https://archive.org/download/willwin2000runonacore2quad
+Windows 2000 Cyn: https://archive.org/download/cyn_20240912
+Windows 2000 Default Beep: https://archive.org/download/win-2k-beep
+Windows 2000 power toolkit: https://archive.org/download/windows2000power00shil
+Windows 2000 Powered: https://archive.org/download/windows-powered_202211
+Windows 2000 Professional Fundamental Concepts Part 5: https://archive.org/download/LeeEvansWindows2000ProfessionalFundamentalConceptsPart5
+Windows 2000 Professional SR4; Office 2003 SR1: https://archive.org/download/windows-2000-professional-sr-4-office-2003-sr-1
+Windows 2000 Server Fundamental Concepts Part 3: https://archive.org/download/LeeEvansWindows2000ServerFundamentalConceptsPart3
+Windows 2000 Server Fundamental Concepts Part 12: https://archive.org/download/LeeEvansWindows2000ServerFundamentalConceptsPart12
+Windows 2000 Server Fundamental Concepts Part 13: https://archive.org/download/LeeEvansWindows2000ServerFundamentalConceptsPart13
+Windows 2000 Server Fundamental Concepts Part 14: https://archive.org/download/LeeEvansWindows2000ServerFundamentalConceptsPart14
+Windows 2000 Server Fundamental Concepts Part 18b: https://archive.org/download/LeeEvansWindows2000ServerFundamentalConceptsPart18b
+Windows 2000 Server Fundamental Concepts Part 24: https://archive.org/download/LeeEvansWindows2000ServerFundamentalConceptsPart24
+Windows 2000 Server Fundamental Concepts Part 32: https://archive.org/download/LeeEvansWindows2000ServerFundamentalConceptsPart32
+Windows 2000 SP4 OEM Preinstallation Kit: https://archive.org/download/Win2000SP4OEMPreinstallationKit
+Windows 2000 Tools: https://archive.org/download/win-2000-hb
+Windows 2000 without Internet Explorer: https://archive.org/download/2000noie
+2001-01 - 0013.0 - Windows 2000 Versions: https://archive.org/download/0013.0os200101
+2005-12 - 3014.1 - Update Rollup 1 for Windows 2000 Service Pack 4 v2 [Multi] Greek: https://archive.org/download/2005-12-3014.1-updaterollup1forwindows2000servicepack4v2multigreek
+Frankenstein Retro PC Build - Windows Neptune and Pre-Release Hardware | #RetroTinkering 9.0 (2025): https://archive.org/download/jay-point-systems_retro-tinkering_episode-09.0_2025-10-31
+Gateway Windows XP Professional Reinstallation Disc (Version 1.0) (2001): https://archive.org/download/winxppro-g-1
+Installing Windows XP Server Beta on the Lenovo Z50-75 But Everything Goes Wrong (Raw Footage): https://archive.org/download/img-0347_202305
+Microsoft Windows Whistler OEM Preinstallation Kit Build 5 Files: https://archive.org/download/Microsoft-Windows-Whistler-OEM-Preinstallation-Kit
+Mozilla Firefox 28.0 Beta 9 for Windows XP, Windows Vista, Windows 7, Windows 8, Windows 8.1: https://archive.org/download/firefox_28.0b9
+Mozilla Firefox Beta 28.0 Beta 8 for Windows XP, Vista, 7, 8 & 8.1: https://archive.org/download/firefox-28.0b-8
+Pipo's Story of Undertale Intro Multiverse 2.0 but i replaced Windows XP Is Diet Audio: https://archive.org/download/1280x-720-mbps-2025-08-29-13-33-30
+The windows whistler build collection by dranna: https://archive.org/download/twxpawcbd
+Edirol SD-80 Native Mode Editor 1.04 Windows XP/2000/ME/98: https://archive.org/download/sd-80-native-mode-editor-win
+ePSXe v2.0.2-1 for Win XP with Ultimate pack / ePSxe 1.9.25 Starter Packs for Windows 2000: https://archive.org/download/e-psxe
+Noel Dayi 3 Windows Xp And Windows 2000 ScreenSaver: https://archive.org/download/3642_20250215
+Turbo Pascal 7 Per Windows XP, 98, 2000: https://archive.org/download/turbopascal7perwindowsxp982000
+Microsoft Windows Academic Program Disc - Windows XP Kernel Source & Internals - March 2006 Beta 1: https://archive.org/download/wap-beta-1-cd
+The Windows XP/Whistler Archive - 2202-2600 - Windows Whistler Build Archive: https://archive.org/download/thewhistlerarchive
+What's New in Windows XP/Whistler Build 2250: https://archive.org/download/whistler2250
+What's New in Windows XP/Whistler Build 2267: https://archive.org/download/whistler2267
+What's New in Windows XP/Whistler 2276: https://archive.org/download/whistler2276
+What's New in Windows XP/Whistler Build 2287: https://archive.org/download/whistler2287
+What's New in Windows XP/Whistler Build 2296: https://archive.org/download/whistler2296
+What's New in Windows XP/Whistler Build 2410: https://archive.org/download/whistler2410
+WinAMP 5.8 3660 beta full en-us (last release for Windows XP SP3): https://archive.org/download/winamp-5.8-3660
+(WIP) Microsoft Windows Longhorn and Vista build collection: https://archive.org/download/MicrosoftWindowsVistaBuildCollection
+AMD Catalyst 15.6 Beta For Windows Vista: https://archive.org/download/amd-catalyst-15.6-beta-for-windows-vista.-7z
+Cumulative Security Update for Internet Explorer in Windows Vista Beta 1 (KB896688): https://archive.org/download/6.0.5112.9.winmain_beta1.051012-1700_CU
+Shanghai Solitaire (Windows Vista Beta) Choose Layout Background: https://archive.org/download/shanghai_solitaire__windows_vista_beta__choose_layout_background_20260428_110036
+Windows Longhorn Aero/DCE files: https://archive.org/download/aero-5048
+Microsoft PDC 2003 DVD1 Windows Longhorn: https://archive.org/download/lpdcdvd1en
+Microsoft PDC 2005 DVD1 Windows Longhorn: https://archive.org/download/lpdcdvd1en_202003
+The Windows Longhorn Vista Archive 3683 6002 Windows Longhorn Build Archive: https://archive.org/download/the-windows-longhorn-vista-archive-3683-6002-windows-longhorn-build-archive
+The Windows Longhorn/Vista Archive - 3683-6002 - Windows Longhorn Build Archive: https://archive.org/download/thelonghornarchive
+Windows Longhorn 3718 Multilingual User Interface Pack 2.1.3.0 (Unofficial): https://archive.org/download/windows-longhorn-build-3718-muisetup-2.1.3.0
+Windows Longhorn 3718 Plex for Windows XP: https://archive.org/download/plex_20250411
+Windows Longhorn 4029 in Power Point! (ENGLISH): https://archive.org/download/windows-longhorn-4029.power.point
+Microsoft Windows Longhorn Whitepapers And Extras Build 4051: https://archive.org/download/microsoftwindowslonghornwhitepapersandextrasbuild4051en
+Windows Longhorn 4074 build Multilingual User Interface Pack: https://archive.org/download/windows-longhorn-4074-build-multilingual-user-interface-pack
+Windows "Longhorn" 4093 Aero Tools Pack: https://archive.org/download/4093-aero-tools-pack
+BlueBadge for Windows 7 Beta: https://archive.org/download/blue-badge-rev-2-x-86_202212
+Internet Explorer 9 Beta for Windows 7: https://archive.org/download/internet-explorer-9-beta
+Internet Explorer 9 Beta para Windows 7 x64: https://archive.org/download/ie-9-windows-7-x-64-esn
+Some More Windows 7 Beta ISO's: https://archive.org/download/SomeMoreWindows7BetaISOs
+Some Windows 7 Beta ISO's: https://archive.org/download/Windows7BetaISOs
+Windows 7 Beta Transformation Pack For Windows 10 22H2: https://archive.org/download/windows-7-beta-transformation-pack-for-windows-10-22-h-2
+Windows 7 Beta Transformation Pack For Windows 10 22H2 ( Update 1): https://archive.org/download/windows-7-beta-transformation-pack-for-windows-10-22-h-2-update-1_202408
+Beta 2007 (Windows 7 NDS): https://archive.org/download/beta-2007-windows-7-nds
+Chinese Phone Crash Compilation And Watching Samsung C 3300 K Champ (on Windows Vienna Rocker): https://archive.org/download/chinese-phone-crash-compilation-and-watching-samsung-c-3300-k-champ-on-windows-vienna-rocker
+Windows 7 Beta Build 7000 Transformation Pack for Windows 10 (1903 Only): https://archive.org/download/windows-7-beta-build-7000-transformation-pack-for-windows-10-1903-only
+Some Windows 8 Beta ISO's: https://archive.org/download/SomeWindows8BetaISOs
+Testing Windows 8 Beta WinPE On VMWare: https://archive.org/download/testing-windows-8-beta-win-pe-on-vmware
+Redlock tool for Windows 8 beta builds (from 7777 to 8064): https://archive.org/download/redlockT86-9.7z
+Betta '09 Update 1 (Windows 10 to 7 Beta): https://archive.org/download/betta09u1
+Get Windows 10 Microsoft Beta Release: https://archive.org/download/GetWindows10MicrosoftBetaRelease
+MEGA Privacy (Beta) for Windows 10 (v1607 & Later): https://archive.org/download/MEGAPrivacyBetaWinStore
+Microsoft Power BI Beta for Windows 10 (v1507 & Later)/8.1/RT: https://archive.org/download/MSPowerBIBetaWinStore
+Minecraft Windows 10 Edition Beta/Minecraft Windows 10 Edition 0.12.0/0.12: https://archive.org/download/microsoft.-minecraft-uwp-0.12.1.0-x-64-8wekyb-3d-8bbwe
+The Windows 10 Beta (Original release) (Simplified Chinese) (x86/x64): https://archive.org/download/windows-10-original-release-simplified-chinese
+Hunmin Office 2k훈민정음오피스 2000 시리얼키 자동입력( MS Windows 10 이상에서 설치되는 첫 버전): https://archive.org/download/hunmin-office-2k-2000-ms-windows-10
+Emule 0.60 Beta Portable Windows 10 y 11 - 32 Bits - Ultra Rápida Conexión - Febrero 2025: https://archive.org/download/emule-0.60-beta-portable-windows-10-y-11-32-bits-ultra-rapida-conexion
+WhatsApp Beta v2.2564.453.0 for Windows 10 (v1903 & Later): https://archive.org/download/WhatsAppBetaUWPv2.2564.453.0
+WhatsApp Beta v2.2564.453.0 for Windows 10/11: https://archive.org/download/WhatsappBeta-2.2564.322.0-windows
+Doctor King Windows 11 Beta ( Test) Version 21h 2 22000.318 X 64: https://archive.org/download/doctor-king-windows-11-beta-test-version-21h-2-22000.318-x-64
+title.wma (Windows Server 2003 and Windows Longhorn Pre 5000): https://archive.org/download/title_wma_windows_server_2003
+[Beta 1] LantherXP - WinPE-based i386 Windows XP installer: https://archive.org/download/lanther-xp-b1
+7-Zip 17.00 beta (2017-04-29) for Windows: https://archive.org/download/7-Zip_17_00_Beta_Windows

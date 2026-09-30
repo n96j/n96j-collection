@@ -1,0 +1,86 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 013/013 — itens 1201–1279 de 1279
+
+## Windows 11
+Windows 11 PRO 22000.527 21 H 2 Non TPM 2.0 Compliant X 64 En US Preactivated: https://archive.org/download/windows-11-pro-22000.527-21-h-2-non-tpm-2.0-compliant-x-64-en-us-preactivated
+Windows 11 PRO 22000.527 21 H 2 Non TPM 2.0 Compliant X 64 En US Preactivated: https://archive.org/download/windows-11-pro-22000.527-21-h-2-non-tpm-2.0-compliant-x-64-en-us-preactivated_202202
+Windows 11 PRO 22000.613 21 H 2 Non TPM 2.0 Compliant X 64 En US Pre Activated~ Victor 24~: https://archive.org/download/windows-11-pro-22000.613-21-h-2-non-tpm-2.0-compliant-x-64-en-us-pre-activated-victor-24
+w11 22H2 eng x64: https://archive.org/download/english_windows_collection/Windows%2011/22H2/Win11_22H2_English_x64.iso
+w11 22h2 ptbr x64: https://archive.org/download/windows-me_202207/Windows%2011/Windows%2011%2022h2%20PT-BR.iso
+Windows 11 V 22 H 2 Build 22621.160 No TPM 2.0 EN US: https://archive.org/download/windows-11-v-22-h-2-build-22621.160-no-tpm-2.0-en-us
+w11 23H2 eng x64: https://archive.org/download/english_windows_collection/Windows%2011/23H2/Win11_23H2_English_x64.iso
+Windows 11 23h 2 Beta 22631.2271: https://archive.org/download/windows-11-23h-2-beta-22631.2271
+Windows 11 pro 23H2 Beta 22635.4076: https://archive.org/download/windows-11-23-h-2-beta-22635.4076
+Windows 11 Pro 23H2 Romana AIO Versiune Pentru iMac 2011 Curata (Fara BootCamp fara TPM 2.0).iso: https://archive.org/download/windows-11-23-h-2-pro-romana-aio-versiune-pentru-i-mac-2011-curata-fara-boot-camp.iso
+Windows 11 Beta 22635.4225 No TPM Required( DEBLOATED): https://archive.org/download/windows-11-beta-22635.4225-debloated
+Windows 11 Arm64 Insider Previews. 25931 Canary, 23526 Dev, 22598 Beta, VHDX Files. English, United States.: https://archive.org/download/windows-11-insider-preview-client-arm-64-en-us-23526-dev
+w11 24h2 ara x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Arabic_x64.iso
+w11 24h2 bul x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Bulgarian_x64.iso
+w11 24h2 cze x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Czech_x64.iso
+w11 24h2 dan x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Danish_x64.iso
+w11 24h2 deu x64: https://archive.org/download/WIN11_24H2/Win11_24H2_German_x64.iso
+w11 24h2 eng x64: https://archive.org/download/WIN11_24H2/Win11_24H2_English_x64.iso
+w11 24h2 engintl x64: https://archive.org/download/WIN11_24H2/Win11_24H2_EnglishInternational_x64.iso
+w11 24h2 esmx x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Spanish_Mexico_x64.iso
+w11 24h2 esp x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Spanish_x64.iso
+w11 24h2 est x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Estonian_x64.iso
+w11 24h2 fin x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Finnish_x64.iso
+w11 24h2 fra x64: https://archive.org/download/WIN11_24H2/Win11_24H2_French_x64.iso
+w11 24h2 frca x64: https://archive.org/download/WIN11_24H2/Win11_24H2_FrenchCanadian_x64.iso
+w11 24h2 gre x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Greek_x64.iso
+w11 24h2 heb x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Hebrew_x64.iso
+w11 24h2 hrv x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Croatian_x64.iso
+w11 24h2 hun x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Hungarian_x64.iso
+w11 24h2 ita x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Italian_x64.iso
+w11 24h2 jpn x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Japanese_x64.iso
+w11 24h2 kor x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Korean_x64.iso
+w11 24h2 lav x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Latvian_x64.iso
+w11 24h2 lit x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Lithuanian_x64.iso
+w11 24h2 nld x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Dutch_x64.iso
+w11 24h2 nor x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Norwegian_x64.iso
+w11 24h2 pol x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Polish_x64.iso
+w11 24h2 ptbr x64: https://archive.org/download/WIN11_24H2/Win11_24H2_BrazilianPortuguese_x64.iso
+w11 24h2 ptpt x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Portuguese_x64.iso
+w11 24h2 rom x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Romanian_x64.iso
+w11 24h2 rus x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Russian_x64.iso
+w11 24h2 slk x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Slovak_x64.iso
+w11 24h2 slv x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Slovenian_x64.iso
+w11 24h2 srlat x64: https://archive.org/download/WIN11_24H2/Win11_24H2_SerbianLatin_x64.iso
+w11 24h2 swe x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Swedish_x64.iso
+w11 24h2 tha x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Thai_x64.iso
+w11 24h2 tur x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Turkish_x64.iso
+w11 24h2 ukr x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Ukrainian_x64.iso
+w11 24h2 zhcn x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Chinese_Simplified_x64.iso
+w11 24h2 zhtw x64: https://archive.org/download/WIN11_24H2/Win11_24H2_Chinese_Traditional_x64.iso
+w11 ltsc 24h2 eng arm64: https://archive.org/download/Windows11LTSC/X23-81950_26100.1742.240906-0331.ge_release_svc_refresh_CLIENT_ENTERPRISES_OEM_A64FRE_en-us.iso
+w11 ltsc 24h2 eng x64: https://archive.org/download/windows-11-enterprise-ltsc-24h2/26100.1.240331-1435.ge_release_CLIENT_ENTERPRISES_OEM_x64FRE_en-us.iso
+w11 ltsc 24h2 esmx x64: https://archive.org/download/es-mx_windows_11_enterprise_ltsc_2024_x64_dvd_3310c094/es-mx_windows_11_enterprise_ltsc_2024_x64_dvd_3310c094.iso
+w11 ltsc 24h2 rus x64: https://archive.org/download/ru-ru_windows_11_enterprise_ltsc_2024_x64_dvd_f9af5773/ru-ru_windows_11_enterprise_ltsc_2024_x64_dvd_f9af5773.iso
+Windows 11 Build 26220.8925 (Beta Channel): https://archive.org/download/435px-win-11-10.0.26220.8925-desktop
+Windows 11 Pro Preview 27891 Super Lite Gamer Lite OS # 1.5b #beta Tester: https://archive.org/download/windows-11-pro-preview-27891-super-lite-gamer-lite-os-1.5b-beta-tester
+Windows 11 Build 28020.2539 (Beta Channel): https://archive.org/download/windows-11-insider-preview-client-x-64-en-us-28020-2539
+
+## Windows Server (2003+)
+srv2003 r2 ent sp2 eng cd1: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202003/en_win_srv_2003_r2_enterprise_with_sp2_cd1_.iso
+srv2003 r2 ent sp2 eng cd2: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202003/en_win_srv_2003_r2_enterprise_with_sp2_cd2_.iso
+srv2003 std: https://archive.org/download/windows-me_202207/Windows%20Server%20(Todos)/Windows%20Server%202003%20Standard%20Eddition.iso
+srv2008 ptbr: https://archive.org/download/windows-me_202207/Windows%20Server%20(Todos)/Windows%20Server%202008%20PT-BR.iso
+srv2008 sp2 eng x32: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202008/en_windows_server_2008_with_sp2_x86_dvd_342333.iso
+srv2008 sp2 eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202008/en_windows_server_2008_with_sp2_x64_dvd_342336.iso
+srv2008r2 sp1 eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202008%20R2/7601.17514.101119-1850_x64fre_server_en-us_VL-GRMSXVOL_EN_DVD.iso
+srv2012 eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202012/en_windows_server_2012_x64_dvd_915478.iso
+srv2012 essentials eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202012/en_server_install_disc_windows_server_2012_essentials_x64_dvd_1022281.iso
+srv2012r2 eval eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202012%20R2/9600.17050.WINBLUE_REFRESH.140317-1640_X64FRE_SERVER_EVAL_EN-US-IR3_SSS_X64FREE_EN-US_DV9.ISO
+srv2016 eval eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202016/Windows_Server_2016_Datacenter_EVAL_en-us_14393_refresh.ISO
+srv2019 eval eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202019/17763.737.190906-2324.rs5_release_svc_refresh_SERVER_EVAL_x64FRE_en-us_1.iso
+srv2022 eval eng x64: https://archive.org/download/english_windows_collection/Windows%20Server/Windows%20Server%202022/SERVER_EVAL_x64FRE_en-us.iso
+Microsoft TechNet EN 0666 - Windows Server Longhorn x86 Edition Beta 2: https://archive.org/download/lb-2-sfre-en-dvd_202512
+Microsoft TechNet EN 0667 - Windows Server Longhorn x64 Edition Beta 2: https://archive.org/download/lb-2-sx-fre-en-dvd_202512
+Microsoft TechNet EN 0668 - Windows Server Longhorn ia64 Edition Beta 2: https://archive.org/download/lb-2-si-fre-en-dvd
+Microsoft Windows Server 2000 ('' NT 5.0'' 5.0.1877.1) (alpha Beta) [Japanese]: https://archive.org/download/windows-nt-5.0-server-1877-japanese-alpha-beta
+Microsoft Windows Server 2008 (Longhorn Server): https://archive.org/download/microsoft-windows-server-2008-longhorn-server
+srv2012 beta 8400 x64: https://archive.org/download/windows-me_202207/Windows%20Server%20(Todos)/Windows%20Server%202012%20Beta%20Build%208400%20(x64).ISO
+
+## Outros SO (CE, Embedded, Thin PC, Fundamentals...)
+fundamentals legacy pcs: https://archive.org/download/windows-me_202207/Windows%20Fundamentals%20for%20Legacy%20PCs/Windows%20Fundamentals%20for%20Legacy%20PCs.iso
+thinpc x86: https://archive.org/download/windows-me_202207/Windows%20Thin%20PC/Windows%20Thin%20PC%20(x86).iso
+wce 1-5 x86: https://archive.org/download/windows-me_202207/Windows%20CE/Windows%20CE%201%20AO%205%20(x86)%20.iso

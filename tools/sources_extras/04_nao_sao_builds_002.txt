@@ -1,0 +1,107 @@
+# ITENS QUE NÃO SÃO BUILDS DE WINDOWS — parte 002/004 — itens 101–200 de 387
+
+## MSDN / TechNet / documentos / conferências
+MSDN - BETA - DDK for Windows 2000 Beta 3 - June 1999 (Microsoft)(X04-77992): https://archive.org/download/msdn-beta-june-1999-x05-77992
+MSDN - Beta - Windows 2000 CS Diags - RC2 (Microsoft)(X05-05233): https://archive.org/download/msdn-beta-october-1999-x05-05223
+MSDN - BETA - Windows 2000 Customer Support Diagnostics RC1 - August 1999 (Microsoft)(X04-95930): https://archive.org/download/msdn-beta-august-1999-x04-95930
+MSDN - BETA - Windows 2000 Customer Support Diags. RC2 (German) December 1999 (Microsoft)(X05-30708): https://archive.org/download/msdn-beta-december-1999-x05-30708
+MSDN - Disc 12 - Windows 2000 Resource Kit - April 2000 (Microsoft)(X05-63790): https://archive.org/download/msdn-disc12-april-2000-x05-63790
+MSDN - Disc 12 - Windows 2000 Resource Kit - Windows Services for UNIX 2.0 - June 2000 (Microsoft)(X05-77559): https://archive.org/download/msdn-disc12-june-2000-x05-77559
+MSDN Discs 3012 and 3012.1 - Update Rollup 1 for Windows 2000 SP4 (Professional & Server): https://archive.org/download/win2k-sp4-update-rollup
+MSDN Disc PN. X06-11816 BackOffice Server 2000 Beta Windows 2000 Server with Service Pack 1 Support and Diagnostic Tools: https://archive.org/download/win-2-ksup
+TechNet - 0108 - Beta Evaluations - Windows XP Professional RC 1 (X08-43393): https://archive.org/download/technet_0108_betaevaluations_windowsxpprofessionalrc1_x0843393
+MSDN - Disc 0827 - Windows Codename Whistler Customer Support Diagnostics Beta 2 (English) May 2001 (Microsoft) (X08-24212): https://archive.org/download/msdn-disc0827-may-2001-x08-24212
+MSDN - Disc 0836 - Windows Codename Whistler Customer Support Diagnostics Beta 2 (German) June 2001 (Microsoft) (X08-25549): https://archive.org/download/msdn-disc0835-june-2001-x08-25549
+MSDN Disc PN. X08-24212 Windows "Codename" Whistler Customer Support Diagnostics Beta 2: https://archive.org/download/wb-2-sym-en
+MSDN Disc PN. X06-25133 Windows "Codename" Whistler Customer Support Diagnostics Beta 1: https://archive.org/download/wb-1-sym-en
+Microsoft WinHEC 2004 DVD2 Windows Longhorn: https://archive.org/download/winhec04dvd2
+Microsoft WinHEC 2004 DVD3 Windows Longhorn: https://archive.org/download/winhec04dvd3
+Microsoft WinHEC 2005 DVD2 Windows Longhorn: https://archive.org/download/WinHecDisc2Longhorn
+Microsoft WinHEC 2005 DVD3 Windows Longhorn: https://archive.org/download/WinHecDisc3Longhorn
+
+## Livros, cursos e treinamento
+Microsoft Windows 95 User's Guide - Beta Docs (1994-10-14): https://archive.org/download/microsoftwindows95usersguide-betadocs19941014
+Learn Access 2000 For Windows 95: https://archive.org/download/Access2000ForWindows95
+Tutorial SA-MP Beta Windows 98 FE MS-DOS Server ANTEL Montecable: https://archive.org/download/tutorial-samp-windows-98-antel
+Introduction to Personal Computers with Windows 98 and Office 2000: https://archive.org/download/introductiontope0000acti
+Tutorial SA-MP 2004 Beta MS-DOS Windows 98 - Costura Race Team Centro Numero 5 Escuela Sanguinetti 2026.: https://archive.org/download/tutorial_20260727
+Course ILT: Exam 70-222 MCSE Migrating from Windows NT to Windows 2000, 2nd Edition: https://archive.org/download/courseiltexam7020000inst
+CBT Systems Office 2000 / Windows 2000 / NT4 / NT5 course files: https://archive.org/download/cbt-win2k
+Designing security for a Microsoft Windows 2000 network : Exam 70-220: https://archive.org/download/designingsecurit0000laud
+Learn Windows 2000 Professional: https://archive.org/download/learnwindows20000000bald
+MCSA managing a Microsoft Windows 2000 network environment readiness review : exam 70-218: https://archive.org/download/mcsamanagingmicr0000unse
+MCSA managing a Windows 2000 network environment study guide : (exam 70-218): https://archive.org/download/mcsamanagingwind00mcca
+MCSA/MCSE self-paced training kit. Microsoft Windows 2000 professional: https://archive.org/download/mcsamcseselfpace0000wall
+MCSE : accelerated Windows 2000 study guide: https://archive.org/download/mcseacceleratedw0000unse
+MCSE : Windows 2000 directory services administration exam notes: https://archive.org/download/mcsewindows2000d0000doct
+MCSE [electronic resource] : Windows 2000 web solutions design study guide: https://archive.org/download/mcsewindows2000w00mich
+MCSE designing Windows 2000 Web solutions study guide (exam 70-226): https://archive.org/download/mcsedesigningwin00unse
+MCSE exam 70-219 designing a Microsoft Windows 2000 Directory Services infrastructure : readiness review: https://archive.org/download/mcseexam70219des0000spea
+MCSE guide to designing a Microsoft Windows 2000 network infrastructure: https://archive.org/download/mcseguidetodesig0000holc
+MCSE training kit : Microsoft Windows 2000 core requirements: https://archive.org/download/mcsetrainingkitm00micr_0
+MCSE Windows 2000 designing all-in-one exam guide: https://archive.org/download/mcsewindows2000d0000brel
+MCSE Windows 2000 directory services: https://archive.org/download/mcsewindows2000d00willrich
+MCSE Windows 2000 directory services design exam prep: https://archive.org/download/mcsewindows2000d00jpet
+MCSE Windows 2000 directory services design study guide: https://archive.org/download/mcsewindows2000d0000king_t1m1
+MCSE Windows 2000 professional exam cram [electronic resource]: https://archive.org/download/mcsewindows2000p00danb
+MCSE Windows 2000 professional study guide (exam 70-210): https://archive.org/download/mcsewindows2000p00syng
+MCSE Windows 2000 security design exam cram: https://archive.org/download/mcsewindows2000s00sche
+MCSE Windows 2000 Server exam cram: https://archive.org/download/mcsewindowsserv00knig
+MCSE Windows 2000 server exam prep: https://archive.org/download/mcsewindows2000s00john
+MCSE: Windows 2000 Network Infrastructure Design: https://archive.org/download/isbn_8176354791
+MCSE: Windows 2000 Network Security Design Study Guide (PC) (CD-ROM): https://archive.org/download/mcse-windows-2000-network-security-study-guide-cd
+MCSE: Windows 2000 Professional Study Guide: https://archive.org/download/Win2000ProStudyGuideMCSE
+MCSE: Windows 2000 server study guide: https://archive.org/download/mcsewindows2000s00dona
+microsoft :: windows 2000 :: 097-0001948 Windows 2000 Server Distributed Systems Guide 2000: https://archive.org/download/bitsavers_microsoftw8Windows2000ServerDistributedSystemsGuid_117779939
+microsoft :: windows 2000 :: 097-0002722 Windows 2000 Server Operations Guide 2000: https://archive.org/download/bitsavers_microsoftw2Windows2000ServerOperationsGuide2000_54073994
+Microsoft Direct Access - Microsoft Windows 2000 Sales Guide (English/Brazilian Portuguese): https://archive.org/download/MS-W2k-SG-br
+Microsoft Running Series: Windows 2000, Windows 98: https://archive.org/download/X06-26340
+Microsoft Windows 2000 : active directory services: https://archive.org/download/microsoftwindows0000unse_n6d3
+Microsoft Windows 2000 Beta training kit: https://archive.org/download/microsoftwindows00micr_1
+Microsoft Windows 2000 Network Infrastructure Online Training Kit: https://archive.org/download/X06-26307
+Microsoft Windows 2000 Professional resource kit: https://archive.org/download/isbn_9780739408810
+Microsoft Windows 2000 Professional resource kit: https://archive.org/download/microsoftresourc00micr
+Microsoft Windows 2000 server resource kit: https://archive.org/download/microsoftwindows00micr
+Microsoft Windows 2000 Server Sales And Marketing Tools 2000 CD: https://archive.org/download/microsoft-windows-2000-server-sales-and-marketing-tools-2000-cd
+Upgrading to Microsoft Windows 2000 training kit: https://archive.org/download/upgradingtomicro00micr
+Windows 2000 active directory design and deployment: https://archive.org/download/windows2000activ0000olse
+Windows 2000 active directory your complete guide to the active directory architecture: https://archive.org/download/windows2000activ0000craf
+Windows 2000 MCSE study system [electronic resource]: https://archive.org/download/windows2000mcses00alan
+Windows 2000 network infrastructure implementation core study guide: https://archive.org/download/windows2000netwo0000unse
+Windows 2000 Professional Resource Kit: https://archive.org/download/windows-2000-resource-kit
+Windows 2000 Professional Resource Kit: https://archive.org/download/X05-51766
+Windows 2000 programming secrets: https://archive.org/download/windows2000progr00waln
+Windows 2000 Resource Kit PL: https://archive.org/download/w2krk-pl
+Windows 2000 Server Resource Kit: https://archive.org/download/X05-43228
+Group policy : management, troubleshooting, and security for Windows Vista, Windows 2003, Windows XP, and Windows 2000: https://archive.org/download/grouppolicymanag0000mosk_y8o3
+Managing and maintaining a Microsoft Windows Server 2003 environment for an MCSA certified on Windows 2000 (70-292): https://archive.org/download/managingmaintain0000holm
+MCSA/MCSE managing and maintaining a Windows Server 2003 environment for an MCSA certified on Windows 2000 : study guide & DVD training system: https://archive.org/download/mcsamcsemanaging0000schi
+
+## Drivers, utilitários e mídias de fabricantes
+Intel 82371SB and 82371AB Identification Update for Windows 95 (Version 1.0): https://archive.org/download/intel-tx-82371-inf-update-for-win-95-version-1.0
+Logitech iTouch 2.0 (CD-ROM, Windows 95/NT/98/Me/2000/XP, 2002, multilingual): https://archive.org/download/LogitechiTouch2.0
+Norton Utilities 2000 4.5 for Windows 95/98: https://archive.org/download/norton-utilities-2000-4.5-win9x
+Logitech DUAL ACTION Installation Windows 98, Me, 2000, XP USB ver,4.40: https://archive.org/download/logitech-dual-action-installation-windows-98-me-2000-xp-usb
+Product Recovery CD ROM For IBM PC 300 GL (Type 6267, 6277, and 6287) Version 1.0 - Windows 98 - FINNISH: https://archive.org/download/pc300GL_recovery_FINNISH
+Product Recovery CD-ROM for IBM PC 300GL (Type 6267, 6277, and 6287) Version 1.0 - Windows 98: https://archive.org/download/product-recovery-cd-rom-for-ibm-pc-300-gl-type-6267-6277-and-6287-version-1.0
+Dell Windows ME Reinstall Disc (2000): https://archive.org/download/win-me-eng_202108
+Dell OPENMANAGE PowerSuites Data Protection 2.1a for Servers - includes VERITAS backup exec v8.5 for NT, Windows 2000 and Novell Netware (Dell)(2001): https://archive.org/download/dell-openmanage-powersuites-tape-backup-2001
+Compaq Operating System Recovery Windows 2000 SP2 249433 001: https://archive.org/download/compaq-operating-system-recovery-w-2-k-sp-2-249433-001-249519-001
+Compaq QuickRestore for Armada E500 [Windows 2000]: https://archive.org/download/CompaqQuickRestoreArmadaE500_Win2000
+Customer Support Diagnostics Package for Microsoft Windows 2000: https://archive.org/download/X05-55006
+Customer Support Diagnostics Package for Microsoft Windows 2000: https://archive.org/download/X05-67855
+Customer Support Diagnostics Package for Microsoft Windows 2000: https://archive.org/download/X05-67856
+Customer Support Diagnostics Package for Microsoft Windows 2000: https://archive.org/download/X05-73116
+Customer Support Diagnostics Package for Microsoft Windows 2000: https://archive.org/download/X05-73117
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-04646
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-04685
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-04686
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-10454
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-10455
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-10458
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-10469
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-10482
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-10484
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 1: https://archive.org/download/X06-10485
+Customer Support Diagnostics Package for Microsoft Windows 2000 with Service Pack 2: https://archive.org/download/X08-36272
+Dell Premier Migration Upgrade CD For Microsoft Windows 2000 Professional: https://archive.org/download/dell-premier-upgrade-win2k-pro

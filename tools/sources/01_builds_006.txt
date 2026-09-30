@@ -1,0 +1,105 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 006/013 — itens 501–600 de 1279
+
+## Windows XP / Whistler
+wXP/Whistler 2267 Home: https://archive.org/download/windows-whistler-collection/5.1.2267.1.idx01.000910-1316_x86fre_client-home_retail_en-us-W2KCFRE_EN.iso
+wXP/Whistler 2267 Pro: https://archive.org/download/windows-whistler-collection/5.1.2267.1.idx01.000910-1316_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso
+wXP/Whistler 2276: https://archive.org/download/windows-whistler-collection/5.1.2276.1.lab02_n.000928-2023_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso
+wXP/Whistler 2287 Beta 1: https://archive.org/download/windows-whistler-collection/5.1.2287.1.beta1.001012-1643_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso
+Microsoft Whistler Professional Beta 1 [Build 2296 Windows Vintage Series - team derekab]: https://archive.org/download/MicrosoftWhistlerB1_201607
+Windows Codename Whistler Advanced Server (5.1.2296.1) (beta 1) (MSDN): https://archive.org/download/windows-codename-whistler-advanced-server-5.1.2296.1-beta-1
+Windows Codename Whistler Personal (5.1.2296.1) (beta 1) (MSDN): https://archive.org/download/windows-codename-whistler-personal-5.1.2296.1-beta-1
+Windows Codename Whistler Professional (5.1.2296.1) (beta 1 chk) (Debug) (MSDN): https://archive.org/download/windows-codename-whistler-professional-5.1.2296.1-beta-1-chk
+Windows Codename Whistler Professional (5.1.2296.1) (beta 1) (MSDN): https://archive.org/download/windows-codename-whistler-professional-5.1.2296.1-beta-1
+wXP/Whistler 2296 Beta 1 checked: https://archive.org/download/windows-whistler-collection/5.1.2296.1.beta1.001024-1157_x86chk_client-professional_en-us-WB1PCHK_EN.iso
+wXP/Whistler 2296 Beta 1 retail: https://archive.org/download/windows-whistler-collection/5.1.2296.1.beta1.001024-1157_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso
+wXP/Whistler 2296 WinPE: https://archive.org/download/windows-whistler-collection/5.1.2296.1.beta1.001024-1157_x86chk_client-winpe_en-us-SHAKIRA.iso
+wXP Longhorn build 2410: https://archive.org/download/lhxp-build-2410-m2/Longhorn%20XP%20beta%20build%202410.ISO
+wXP/Whistler 2410: https://archive.org/download/windows-whistler-collection/5.1.2410.1.main.001208-1937_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso
+Microsoft Windows XP "Whistler" Build 2416: https://archive.org/download/ms-winxp-burnlab-2416
+wXP/Whistler 2416: https://archive.org/download/windows-whistler-collection/5.1.2416.1.idx01.010104-1958_x86fre_client-professional_retail_en-us-WB1PFRE_EN.iso
+wXP/Whistler 2416 IDS: https://archive.org/download/windows-whistler-collection/5.1.2416.1.idx01.010104-1958_x86fre_client-professional_retail_en-us-WB1PFRE_EN-IDS.iso
+Microsoft Windows XP ('' Whistler'' 5.1.2419.1 Professional B 1). 7z: https://archive.org/download/microsoft-windows-xp-whistler-5.1.2419.1-professional-b-1.-7z
+wXP Longhorn build 2419: https://archive.org/download/lhxp_m2_2419/Longhorn%20XP%20Professional%20build%202419.iso
+wXP/Whistler 2419 checked IDW: https://archive.org/download/windows-whistler-collection/5.1.2419.1.idx02.010115-1412_x86chk_client-professional_retail_en-us-WB2PCHK_EN-IDW.iso
+wXP/Whistler 2419 Personal: https://archive.org/download/windows-whistler-collection/5.1.2419.1.idx02.010113-1154_x86fre_client-personal_retail_en-us-WB2PLFRE_EN.iso
+wXP/Whistler 2419 Pro: https://archive.org/download/windows-whistler-collection/5.1.2419.1.idx02.010113-1154_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso
+Microsoft Windows XP "Whistler" Professional - Build 2428: https://archive.org/download/ms-winxp-burnlab-2428
+wXP/Whistler 2428: https://archive.org/download/windows-whistler-collection/5.1.2428.1.idx01.010129-1827_x86fre_client-professional_retail_en-us-WB2PFRE_EN.iso
+Microsoft Windows XP ('' Whistler'' 5.1.2446.1 Professional B 2). 7z: https://archive.org/download/microsoft-windows-xp-whistler-5.1.2446.1-professional-b-2.-7z
+wXP Longhorn build 2446: https://archive.org/download/longhorn-xp-build-2446/Longhorn%20XP%20build%202446.iso
+wXP Longhorn build 2454: https://archive.org/download/longhorn-xp-build-2454/Longhorn%20XP%20build%202454.iso
+wXP Longhorn build 2458: https://archive.org/download/longhorn-xp-build-2458/Longhorn%20XP%20build%202458.iso
+Microsoft Windows Whistler Server Build 2462 Beta 2 Build collection 4 files: https://archive.org/download/microsoftwindowscodenamewhistleradvancedserverbuild2462.0main.0103151710ja
+My Windows Whistler build 2462 Lite: https://archive.org/download/2462_20230419
+wXP Whistler 2463: https://archive.org/download/WindowsWhistlerBuild2463/usa_2463__x86fre.pro_whistler.iso
+Microsoft Windows XP [ Whistler] 5.1.2542.0 Professional RC 2: https://archive.org/download/microsoft-windows-xp-whistler-5.1.2542.0-professional-rc-2
+Microsoft Windows XP Professional Service Pack 1 Beta build 2600.1081: https://archive.org/download/5.1.2600.1081.xpsp-1.020719-1845-x-86fre-client-professional-en-us-x-1-bpfre-en
+Microsoft Windows XP Media Center Edition Codename 'Emerald' Beta 2 (Build 2691): https://archive.org/download/microsoft-windows-xp-media-center-edition-codename-emerald-beta-2-build-2691
+ISOs do Windows XP e Longhorn Compilação 4051: https://archive.org/download/lh_usa_4051_x86fre_pro
+ISOs do Windows XP Home Edition e do Windows Longhorn Compilação 5048: https://archive.org/download/wxphesp-3-sata-pt-br-2011_202207
+MSDN Disc PN. X08-20972 Windows XP Home Edition Beta 2: https://archive.org/download/wb-2-plfre-en
+MSDN Disc PN. X08-20973 Windows XP Professional Beta 2: https://archive.org/download/wb-2-pfre-en
+MSDN Disc PN. X08-20974 Windows "Codename" Whistler Server Beta 2: https://archive.org/download/wb-2-sfre-en
+MSDN Disc PN. X08-20975 Windows "Codename" Whistler Advanced Server Beta 2: https://archive.org/download/wb-2-afre-en
+MSDN Disc PN. X08-20976 Windows "Codename" Whistler Professional Edition Checked Debug Build Beta 2: https://archive.org/download/wb-2-pchk-en
+MSDN Disc PN. X06-25128 Windows "Codename" Whistler Personal Beta 1: https://archive.org/download/wb-1-plfre-en
+MSDN Disc PN. X06-25131 Windows "Codename" Whistler Advanced Server Beta 1: https://archive.org/download/wb-1-afre-en
+MSDN Disc PN. X06-25132 Windows "Codename" Whistler Professional Checked Debug Build Beta 1: https://archive.org/download/wb-1-pchk-en
+MSDN Disc PN. X08-30066 Windows Codename "Whistler" MultiLanguage Version Disc 2 Beta 2: https://archive.org/download/wb-2-m-cd-1
+
+## Windows Longhorn / Vista
+Longhorn Hillel 7 (Windows Mod): https://archive.org/download/hillel-2023-01-11-22-26-10
+Longhorn Hillel 7 (Windows Mod) Archive: https://archive.org/download/hillel-2023-01-11-22-26-10-Archive
+Microsoft Windows Longhorn (Beta Version): https://archive.org/download/usa_4053_x86fre.pro_longhorn
+Microsoft Windows Vista Beta 2: https://archive.org/download/winvista-beta2
+Microsoft Windows Vista Longhorn BETA: https://archive.org/download/dec-ctp-5270-32bit-main-dvd_202312
+vista rtm eng x32: https://archive.org/download/english_windows_collection/Windows%20Vista/RTM/en_windows_vista_x86_dvd_x12-34293.iso
+vista rtm eng x64: https://archive.org/download/english_windows_collection/Windows%20Vista/RTM/en_windows_vista_x64_dvd_x12-40712.iso
+vista sp1 eng x32: https://archive.org/download/english_windows_collection/Windows%20Vista/SP1/en_windows_vista_with_service_pack_1_x86_dvd_x14-29594.iso
+vista sp1 eng x64: https://archive.org/download/english_windows_collection/Windows%20Vista/SP1/en_windows_vista_with_service_pack_1_x64_dvd_x14-29595.iso
+vista sp1 ult ptbr x32/x64: https://archive.org/download/WinVistaUltimateSP1PTB/Windows.Vista.Ultimate.SP1.Brazilian.x86.x64.AIO.DVD-iKaRo.iso
+vista sp2 eng x32: https://archive.org/download/english_windows_collection/Windows%20Vista/SP2/en_windows_vista_sp2_x86_dvd_342266.iso
+vista sp2 eng x64: https://archive.org/download/english_windows_collection/Windows%20Vista/SP2/en_windows_vista_sp2_x64_dvd_342267.iso
+Windows 1.0 - 11: https://archive.org/download/windows-longhorn-build-5219-s-001
+Windows 1.0-11: https://archive.org/download/windows-longhorn-build-5112-000001-s-001_202512
+Windows 20th Anniversary - Windows Vista Beta (JP): https://archive.org/download/windows-20th-anniversary-windows-vista-beta-jp
+Microsoft TechNet: 0345 - Windows "Longhorn" Professional x64 Edition Beta 1: https://archive.org/download/microsoft-technet-0345-windows-longhorn-x64-beta-1
+Microsoft TechNet: 0346 - Windows "Longhorn" Professional Edition Beta 1 Windows Automated Installation Kit: https://archive.org/download/microsoft-technet-0346-windows-longhorn-beta-1-waik
+Microsoft TechNet EN 0664 - Windows Vista Beta 2 x86: https://archive.org/download/lb-2-cfre-en-dvd
+Microsoft TechNet EN 0665 - Windows Vista Beta 2 x64: https://archive.org/download/lb-2-cx-fre-en-dvd
+Microsoft Windows Longhorn Server (Server 2008) x86,x64,IA64 Build collection 137 file: https://archive.org/download/os-microsoft-windows-longhorn-server
+Windows Codename "Longhorn" Disc 3015 (x86): https://archive.org/download/lb-1-pfre-en
+Windows Longhorn Build 3650 ( Beta): https://archive.org/download/windows-longhorn-build-3650-beta
+Windows Longhorn Build 3660: https://archive.org/download/windowslonghornbuild3660
+Windows Longhorn Build 3663 (Recreation): https://archive.org/download/3663-kinda-accurate-recreation
+longhorn 3683 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%203683%20(x86).iso
+Microsoft Windows Longhorn Build 3683-5098 collection 96 files: https://archive.org/download/6.0.4039.0.lab06n.0308241954x86freclientprofessionalretailenuslb1pfreendeveloper
+Microsoft Windows Vista ('' Longhorn'' 6.0.3683.0) (beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.3683.0-beta.-7z
+Windows longhorn 3683: https://archive.org/download/usa_3683__x86fre.pro_longhorn_202207
+Windows Longhorn Build 3683: https://archive.org/download/lhxp3683
+Windows Longhorn Build 3683: https://archive.org/download/6.0.3683.0.lab-06-n.-020923-1821-x-86fre-client-professional-retail-en-us-lmbpfre-en
+Windows Longhorn build 3683: https://archive.org/download/longhorn-3683
+Windows Longhorn build 3683: https://archive.org/download/longhorn-3683_202207
+Windows Longhorn Build 3683 (x86): https://archive.org/download/6.0.3683.0.lab-06-n.-020923-1821-x-86fre-client-professional-retail-en-us-lmbpfre-en_202404
+Windows Longhorn Build 3683-5098 collection 28 remaining files: https://archive.org/download/windowslonghornbuild3683-5098collection28remainingfiles
+longhorn 3706 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20%20Build%203706%20(x86).iso
+Windows Longhorn 3706: https://archive.org/download/windows-longhorn-6.0.3706-desktop
+longhorn 3713 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%203713%20(x86).iso
+Microsoft Windows Longhorn Milestone 3 (build 3713): https://archive.org/download/longhorn3713
+Windows Longhorn Build 3713 (x86): https://archive.org/download/6.0.3713.-lab-06-n.-021113-1841-x-86fre-client-professional-retail-en-us
+Microsoft Windows Vista ('' Longhorn'' 6.0.3718.0) (beta). 7z: https://archive.org/download/microsoft-windows-vista-longhorn-6.0.3718.0-beta.-7z
+Windows Longhorn build 3718 (QEMU VHD image): https://archive.org/download/3718QEMU
+Windows Longhorn Build 3718 (x86): https://archive.org/download/6.0.3718.0.lab-06-n.-021119-1730-x-86fre-client-professional-retail-en-us-lmbfre-en
+Windows Longhorn Build 3790.1232: https://archive.org/download/windows-longhorn-build-3790.1232
+Windows Longhorn Build 3790.1232: https://archive.org/download/media_iso
+Windows Longhorn Build 3790.1232: https://archive.org/download/WindowsLonghornBuild3790
+Windows Longhorn 4001 for QEMU: https://archive.org/download/windows-longhorn-4001.7z
+Windows Longhorn Build 4001: https://archive.org/download/windows-longhorn-build-4001_202603
+Windows Longhorn Build 4001 (Virtualbox (Debombed (Pre-Activated))): https://archive.org/download/windows-longhorn-build-4001
+Windows Longhorn Build 4001 (x86): https://archive.org/download/6.0.4001.main.-021204-1515-x-86fre-client-professional-retail-en-us
+Windows Longhorn Build 4001 I386 Repack: https://archive.org/download/4001-i-386
+longhorn 4002 x86: https://archive.org/download/windows-me_202207/Windows%20XP%20Longhorn/Windows%20Longhorn%20Beta%20Build%204002%20(x86).iso
+Windows Longhorn Build 4002 (Lab06_N) (x86): https://archive.org/download/6.0.4002.-lab-06-nntvbl-06.-030108-1926-x-86fre-client-professional-retail-en-us-lb-1-pfre-en
+Windows Longhorn Build 4002 WIM Repack By mz2003: https://archive.org/download/4002-wim-repack
+Windows Longhorn 4005 Repack: https://archive.org/download/4005-repack
+Windows Longhorn Build 4005: https://archive.org/download/6.0.4005.main.030128-1920

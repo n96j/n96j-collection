@@ -1,0 +1,39 @@
+# EXTRAS RELACIONADOS (Service Packs, DDK/SDK, símbolos, boot disks, rollups) — parte 001/001 — itens 1–22 de 22
+
+## Windows 95 / Chicago
+Microsoft Windows 95 Beta 2 DDK: https://archive.org/download/win95-224-ddk
+Windows 95 - Beta 2 release DDK Kit 10.28.94 [205283]: https://archive.org/download/205283
+Windows 95 boot disk and Whistler 2428 CD: https://archive.org/download/usa_2428__x86fre.pro_whistler_202208
+
+## Windows 98 / Memphis
+Windows 98 Service Pack 1 Beta (Build 2091) (Trad. Chinese / Korean): https://archive.org/download/Win98SP1Beta_2091
+
+## Windows NT (3.x / 4.0 / Cairo)
+Microsoft Windows DDK for Windows NT 4.0 Beta 2: https://archive.org/download/microsoft-windows-ddk-for-windows-nt-4.0-beta-2
+
+## Windows 2000
+Microsoft Windows 2000 Service Pack 2 Greek: https://archive.org/download/w2ksp2
+Windows 2000 boot disks: https://archive.org/download/windows_2000_boot_disks
+Windows 2000 DDK (rc1 beta) x86 alpha: https://archive.org/download/Windows2000DDKrc1betax86alpha
+Windows 2000 DDK (rc2 beta) x86 alpha: https://archive.org/download/Windows2000DDKrc2betax86alpha
+Windows 2000 Service Pack 1 ITA: https://archive.org/download/win2k_sp1_ita
+Windows 2000 Service Pack 3: https://archive.org/download/windows-2000-service-pack-3_202408
+Windows 2000 Service Pack 4 (Japanese): https://archive.org/download/Win2000SP4JPN
+Windows 2000 Service Pack 4 Nederlands (Dutch): https://archive.org/download/w2ksp4_nl
+Windows 2000 Service Packs: https://archive.org/download/windows2k-sp
+Windows 2000 Service Packs: https://archive.org/download/X08-38391
+Windows 2000 UUR2 + UURollup: https://archive.org/download/windows-2000-uur2uurollup
+Windows 2000 UURollup V 11 D 20141130 X 86 ENU. 7z: https://archive.org/download/windows-2000-uurollup-v-11-d-20141130-x-86-enu.-7z
+Windows 2000 UURollup V 11 D 20141130 X 86 ENU. 7z: https://archive.org/download/windows-2000-uurollup-v-11-d-20141130-x-86-enu.-7z_202402
+
+## Windows XP / Whistler
+Microsoft Windows XP Service Pack 2 Beta - English: https://archive.org/download/microsoft-windows-xp-service-pack-2-beta
+
+## Windows Longhorn / Vista
+Microsoft Windows Longhorn Symbols 4051.4074.5112: https://archive.org/download/microsoftwindowslonghornsymbolsbuild5112beta1en
+
+## Windows 8 / 8.1
+Windows 8 Consumer Preview & Windows Server 8 Beta (Build 8250) Debug Symbols and Update Packs: https://archive.org/download/6.2.8250.0.winmain_win8beta.120217-1520_client-server_otherpacks
+
+## Windows 10
+Windows 10 1606 beta with private PDB symbols: https://archive.org/download/windows-10-beta-with-private-pdb-symbols

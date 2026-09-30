@@ -1,0 +1,107 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 005/013 — itens 401–500 de 1279
+
+## Windows 2000
+Windows 2000 USP5.1 (2195.23): https://archive.org/download/Win2000USP5.12195.23
+Windows 2000 UTM VM: https://archive.org/download/windows-2000-utm-vm
+Windows 2000 Versions (Portuguese - Brazil) [MSDN]: https://archive.org/download/Win2000PTBRMSDN
+WINDOWS 2000 W/ DOS 6.22: https://archive.org/download/en-windows-2000-dos-622-x-86
+Windows 2000 インテグラルエディション: https://archive.org/download/ja-windows-2000-integral-with-service-pack-4-x-86-dvd-fu-cl-gh-disk-2
+Windows 2000 Professional Beta 3 Build 2020: https://archive.org/download/5.00.2020.1x86freclientprofessionalenusw2kproiusa
+Windows 2000 3 Editions Beta 3 Build 2031: https://archive.org/download/windows20003editionsbeta3build2031
+Windows 2000 Beta 3 Build 2031 German: https://archive.org/download/w-2-k-srv-b-3-ger-build-2031
+Windows 2000 build 2031.1 (Beta 3, Japanese, PC-9800, Professional, Server, Advanced Server): https://archive.org/download/w2ki-jpn
+Windows 2000 Server Beta 3 (Build 2031) (Korean): https://archive.org/download/Win2000SrvBeta3Build2031KOR
+Windows 2000 Server Beta 3 (Build 2031) (Korean): https://archive.org/download/windows-2000.ver.-5.00.2031.-korean
+Windows 2000 Server RC1 Build 2068: https://archive.org/download/usa_2068_win2000.srv
+Windows 2000 Build 2072.1 (x86): https://archive.org/download/usa_2072.1_win2000.wks_rc1
+Windows 2000 Advanced Server (Build 2190): https://archive.org/download/Win2000AdvSrvBuild2190
+Windows 2000 Advanced Server build 2190: https://archive.org/download/w-2-ais-en
+Windows 2000 Advanced Server SP2 Beta (Build 2195.2793): https://archive.org/download/Win2000AdvancedServerSP2Beta2195-v2793
+Windows 2000 Advanced Server SP4 Beta (Build 2195.6623): https://archive.org/download/Win2000AdvancedServerSP4Beta2195-v6623
+Windows 2000 Advanced Server SP4 Beta (Build 2195.6632): https://archive.org/download/Win2000AdvancedServerSP4Beta2195-v6632
+Windows 2000 Advanced Server SP4 Beta (Build 2195.6697): https://archive.org/download/Win2000AdvancedServerSP4Beta2195-v6697
+Windows 2000 Advanced Server SP4 Beta (Build 2195.6697) Lite: https://archive.org/download/Win2000AdvServSP4Beta2195-v6697-Lite
+Windows 2000 Advanced Server SP4 Beta (Build 2195.6697) Lite v2: https://archive.org/download/Win2000AdvServSP4Beta2195-v6697-Lite2
+Windows 2000 Advanced Server SP4 Beta (Build 2195.6697) Lite v3: https://archive.org/download/Win2000AdvServSP4Beta2195-v6697-Lite3
+Windows 2000 Build 2195.1 Professional RTM English: https://archive.org/download/windows-2000-professional-rtm-build-2195.1-english
+Windows 2000 Professional SP4 Beta (Build 2195.6632) Altered: https://archive.org/download/Win2000ProSP4Beta2195-v6632-Alt
+Windows 2000 Professional SP4 Beta (Build 2195.6632) Lite: https://archive.org/download/Win2000ProSP4Beta2195-v6632-Lite
+Windows 2000 Professional with SP1 Beta (Build 2195.1600) (RC 1.59): https://archive.org/download/Win2000ProSP1BetaBuild1600
+Windows 2000 Professional with SP3 Beta (Build 2195.4448) (RC 3.51): https://archive.org/download/Win2000ProSP3BetaBuild4448ENU
+Windows 2000 Professional with SP4 Beta (Build 2195.6623): https://archive.org/download/Win2000ProSP4Beta2195.6623
+Windows 2000 Professional with SP4 Beta (Build 2195.6717) (RC 4.80): https://archive.org/download/Win2000ProSP4Beta2195.6717_RC4.80
+Windows 2000 Server with SP4 Beta (Build 2195.6623): https://archive.org/download/Win2000ServerSP4Beta2195.6623
+Windows 2000 Server with SP4 Beta (Build 2195.6717) (RC 4.80): https://archive.org/download/Win2000ServerSP4Beta2195.6717_RC4.80
+Windows 2000 Build 5111 (neptune): https://archive.org/download/windows-2000-build-5111
+
+## Windows Neptune / Odyssey
+Microsoft Windows Neptune / Odyssey - Build 3825 & 5111 Core Components: https://archive.org/download/NeptuneOdysseyLostMedia
+Microsoft Neptune [Build 5111 - Windows Vintege Series - team derekab]: https://archive.org/download/MicrosoftNeptuneBuild5111_201607
+neptune 5111: https://archive.org/download/english_windows_collection/Windows%20Neptune%20Build%205111/Windows%20Neptune%20Build%205111.iso
+
+## Windows XP / Whistler
+Microsoft Windows "Whistler" Beta 1: https://archive.org/download/ms-win-whistler-beta1
+Microsoft Windows "Whistler" Server Beta 2: https://archive.org/download/ms-winsrv2003-beta2
+Windows "Codename" Whistler Advanced Server Beta 2: https://archive.org/download/msdn-0786.1
+Windows "Codename" Whistler Professional Edition Checked/Debug Build Beta 2: https://archive.org/download/msdn-0787
+Windows "Codename" Whistler Server Beta 2: https://archive.org/download/msdn-0785.1
+Windows Codename "Whistler" Multilanguage Version Disc 2, Beta 2: https://archive.org/download/msdn-0866
+Windows Codename “ Whistler”: https://archive.org/download/windows-codename-whistler-5.1.2250.1.main.-000628-2110-x-86fre-professional-en-us
+Windows XP/Whistler Build Collection: https://archive.org/details/windows-whistler-collection
+xp home rtm eng x32: https://archive.org/download/english_windows_collection/Windows%20XP/Home%20Edition/RTM/WXHOEM_EN.iso
+xp home sp3 eng x32: https://archive.org/download/english_windows_collection/Windows%20XP/Home%20Edition/SP3/en_windows_xp_home_with_service_pack_3_x86_cd_x14-92413.iso
+xp mce2005 eng x32: https://archive.org/download/english_windows_collection/Windows%20XP/Media%20Center%20Edition/MCE2005SP3.iso
+xp pro rtm eng x32: https://archive.org/download/english_windows_collection/Windows%20XP/PRO/RTM/WXPVOL_EN.iso
+xp pro sp1 eng x32: https://archive.org/download/english_windows_collection/Windows%20XP/PRO/SP1/XRMPOEM_EN.iso
+xp pro sp2 eng x32: https://archive.org/download/english_windows_collection/Windows%20XP/PRO/SP2/VRMPFPP_EN.ISO
+xp pro sp3 ara x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/ar_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74065.iso
+xp pro sp3 cze x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/cs_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73965.iso
+xp pro sp3 dan x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/da_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73968.iso
+xp pro sp3 deu x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/de_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73985.iso
+xp pro sp3 eng x32: https://archive.org/download/english_windows_collection/Windows%20XP/PRO/SP3/en_windows_xp_professional_with_service_pack_3_x86_cd_x14-80428.iso
+xp pro sp3 esp x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/es_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74009.iso
+xp pro sp3 fin x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/fi_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73979.iso
+xp pro sp3 fra x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/fr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73982.iso
+xp pro sp3 gre x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/el_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73988.iso
+xp pro sp3 heb x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/he_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74143.iso
+xp pro sp3 hun x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/hu_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73991.iso
+xp pro sp3 ita x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/it_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73994.iso
+xp pro sp3 jpn x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/ja_windows_xp_professional_with_service_pack_3_x86_dvd_vl_x14-74058.iso
+xp pro sp3 kor-k x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/ko_windows_xp_professional_k_with_service_pack_3_x86_cd_vl_x14-87427.iso
+xp pro sp3 kor-kn x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/ko_windows_xp_professional_kn_with_service_pack_3_x86_cd_vl_x14-78419.iso
+xp pro sp3 nld x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/nl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-73971.iso
+xp pro sp3 nor x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/no_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74000.iso
+xp pro sp3 pol x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/pl_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74003.iso
+xp pro sp3 ptbr x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/pt-br_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74137.iso
+xp pro sp3 ptpt x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/pt-pt_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74006.iso
+xp pro sp3 rus x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/ru_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74146.iso
+xp pro sp3 swe x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/sv_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74012.iso
+xp pro sp3 tur x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/tr_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74085.iso
+xp pro sp3 zhcn x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/zh-hans_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74070.iso
+xp pro sp3 zhhk x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/zh-hk_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74075.iso
+xp pro sp3 zhtw x32: https://archive.org/download/windows-xp-professional-collection-multilanguages/zh-tw_windows_xp_professional_with_service_pack_3_x86_cd_vl_x14-74140.iso
+xp pro x64 eng: https://archive.org/download/english_windows_collection/Windows%20XP/PRO%20X64/Windows_XP_Pro_x64_English.iso
+MSDN - Disc 0783 - Windows XP Home Edition Beta 2 (English) May 2001 (Microsoft) (X08-20972): https://archive.org/download/msdn-disc0783-may-2001-x08-20972
+MSDN - Disc 0784 - Windows XP Professional Beta 2 (English) May 2001 (Microsoft) (X08-20973): https://archive.org/download/msdn-disc0784-may-2001-x08-20973
+MSDN - Disc 0785 - Windows Codename Whistler Server Beta 2 (English) May 2001 (Microsoft) (X08-20974): https://archive.org/download/msdn-disc0785-may-2001-x08-20974
+MSDN - Disc 0786 - Windows Codename Whistler Advanced Server Bera 2 (English) May 2001 (Microsoft) (X08-20975): https://archive.org/download/msdn-disc0786-may-2001-x08-20975
+MSDN - Disc 0787 - Windows Codename Whistler Professional Edition Checked Debug Build Beta 2 (English) May 2001 (Microsoft) (X08-20976): https://archive.org/download/msdn-disc0787-may-2001-x08-20976
+MSDN - Disc 0832 - Windows XP Home Edition Beta 2 (German) June 2001 (Microsoft) (X08-25545): https://archive.org/download/msdn-disc0832-june-2001-x08-25545
+MSDN - Disc 0833 - Windows XP Professional Beta 2 (German) June 2001 (Microsoft) (X08-25546): https://archive.org/download/msdn-disc0833-june-2001-x08-25546
+MSDN - Disc 0834 - Windows Codename Whistler Server Beta 1 (German) June 2001 (Microsoft) (X08-25547): https://archive.org/download/msdn-disc0834-june-2001-x08-25547
+MSDN - Disc 0835 - Windows Codename Whistler Advanced Server Beta 2 (German) June 2001 (Microsoft) (X08-25548): https://archive.org/download/msdn-disc0835-June-2001-x08-25548
+MSDN - Disc 0866 - Windows Codename Whistler Multilanguage Version Disc 2, Beta 2 (English) July 2001 (Microsoft) (X08-30066): https://archive.org/download/msdn-disc0866-july-2001-x08-30066
+MSDN - Disc 1108 - Windows Codename Whistler Server Beta 2, Windows Whistler Advanced Server Beta 2, Windows Whistler Advanced Server Beta 2 Checked Debug (Englisht) November 2001 (Microsoft) (X08-55588): https://archive.org/download/msdn-disc1108-november-2001-x08-55588
+2001-07 - 0871.0 - Windows ''Codename'' Whistler Server (5.1.2462.0) (beta2) [Korean]: https://archive.org/download/0871.0-os-2001-07
+2001-07 - 0872.0 - Windows ''Codename'' Whistler Advanced Server (5.1.2462.0) (beta2) [Korean]: https://archive.org/download/0872.0-os-2001-07
+MSDN - BETA - Windows Codename Whistler Personal Beta 1 (English) January 2001 (Microsoft) (X06-25128): https://archive.org/download/msdn-BETA-January-2001-x06-25128
+Microsoft Windows Whistler Build 2202-2600 collection 74 files: https://archive.org/download/Windows-Whistler-Build-2202-2600-collection-71-files
+Windows Codename Whistler Build 2202: https://archive.org/download/CodenameWhistler2202
+wXP/Whistler 2202: https://archive.org/download/windows-whistler-collection/5.00.2202.1.ntvbl06.000202-1835_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso
+wXP/Whistler 2211: https://archive.org/download/windows-whistler-collection/5.00.2211.1.main.000309-1512_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso
+wXP/Whistler 2223: https://archive.org/download/windows-whistler-collection/5.1.2223.1.main.000411-2307_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso
+wXP/Whistler 2250: https://archive.org/download/windows-whistler-collection/5.1.2250.1.main.000628-2110_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso
+wXP/Whistler 2257 Home: https://archive.org/download/windows-whistler-collection/5.1.2257.1.idx01.000810-2103_x86fre_client-home_retail_en-us-W2KCFRE_EN.iso
+wXP/Whistler 2257 Pro: https://archive.org/download/windows-whistler-collection/5.1.2257.1.idx01.000810-2103_x86fre_client-professional_retail_en-us-W2KPFRE_EN.iso
+Microsoft Windows .NET(Whistler) Server Build 2267-3718 collection 44 files: https://archive.org/download/windows-.net-whistler-server
+Microsoft Windows Whistler Build 2267 Pre Beta 1 Build collection 7 files: https://archive.org/download/osx86microsoftwindowswhistlerprofessionaleditionbuild2267prebeta1checkeddebugen

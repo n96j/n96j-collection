@@ -1,0 +1,105 @@
+# BUILDS DE WINDOWS (ISOs / VMs / pré-lançamentos) — parte 012/013 — itens 1101–1200 de 1279
+
+## Windows 10
+Windows 10 Vienna X 64 19044.1645.220403 0237.21 H 2 UEFI: https://archive.org/download/windows-10-vienna-x-64-19044.1645.220403-0237.21-h-2-uefi
+w10 22h2 ara x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Arabic/Win10_22H2_Arabic_x32v1.iso
+w10 22h2 ara x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Arabic/Win10_22H2_Arabic_x64v1.iso
+w10 22h2 bul x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Bulgarian/Win10_22H2_Bulgarian_x32v1.iso
+w10 22h2 bul x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Bulgarian/Win10_22H2_Bulgarian_x64v1.iso
+w10 22h2 cze x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Czech/Win10_22H2_Czech_x32v1.iso
+w10 22h2 cze x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Czech/Win10_22H2_Czech_x64v1.iso
+w10 22h2 dan x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Danish/Win10_22H2_Danish_x32v1.iso
+w10 22h2 dan x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Danish/Win10_22H2_Danish_x64v1.iso
+w10 22h2 deu x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_German/Win10_22H2_German_x32v1.iso
+w10 22h2 deu x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_German/Win10_22H2_German_x64v1.iso
+w10 22H2 eng x32: https://archive.org/download/english_windows_collection/Windows%2010/22H2/Win10_22H2_English_x32.iso
+w10 22H2 eng x64: https://archive.org/download/english_windows_collection/Windows%2010/22H2/Win10_22H2_English_x64.iso
+w10 22h2 engintl x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_English_International/Win10_22H2_EnglishInternational_x32v1.iso
+w10 22h2 engintl x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_English_International/Win10_22H2_EnglishInternational_x64v1.iso
+w10 22h2 esmx x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Spanish_Mexico/Win10_22H2_Spanish_Mexico_x32v1.iso
+w10 22h2 esmx x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Spanish_Mexico/Win10_22H2_Spanish_Mexico_x64v1.iso
+w10 22h2 esp x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Spanish/Win10_22H2_Spanish_x32v1.iso
+w10 22h2 esp x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Spanish/Win10_22H2_Spanish_x64v1.iso
+w10 22h2 est x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Estonian/Win10_22H2_Estonian_x32v1.iso
+w10 22h2 est x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Estonian/Win10_22H2_Estonian_x64v1.iso
+w10 22h2 fin x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Finnish/Win10_22H2_Finnish_x32v1.iso
+w10 22h2 fin x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Finnish/Win10_22H2_Finnish_x64v1.iso
+w10 22h2 fra x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_French/Win10_22H2_French_x32v1.iso
+w10 22h2 fra x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_French/Win10_22H2_French_x64v1.iso
+w10 22h2 frca x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_French_Canadian/Win10_22H2_FrenchCanadian_x32v1.iso
+w10 22h2 frca x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_French_Canadian/Win10_22H2_FrenchCanadian_x64v1.iso
+w10 22h2 gre x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Greek/Win10_22H2_Greek_x32v1.iso
+w10 22h2 gre x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Greek/Win10_22H2_Greek_x64v1.iso
+w10 22h2 heb x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Hebrew/Win10_22H2_Hebrew_x32v1.iso
+w10 22h2 heb x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Hebrew/Win10_22H2_Hebrew_x64v1.iso
+w10 22h2 hrv x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Croatian/Win10_22H2_Croatian_x32v1.iso
+w10 22h2 hrv x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Croatian/Win10_22H2_Croatian_x64v1.iso
+w10 22h2 hun x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Hungarian/Win10_22H2_Hungarian_x32v1.iso
+w10 22h2 hun x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Hungarian/Win10_22H2_Hungarian_x64v1.iso
+w10 22h2 ita x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Italian/Win10_22H2_Italian_x32v1.iso
+w10 22h2 ita x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Italian/Win10_22H2_Italian_x64v1.iso
+w10 22h2 jpn x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Japanese/Win10_22H2_Japanese_x32v1.iso
+w10 22h2 jpn x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Japanese/Win10_22H2_Japanese_x64v1.iso
+w10 22h2 kor x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Korean/Win10_22H2_Korean_x32v1.iso
+w10 22h2 kor x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Korean/Win10_22H2_Korean_x64v1.iso
+w10 22h2 lav x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Latvian/Win10_22H2_Latvian_x32v1.iso
+w10 22h2 lav x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Latvian/Win10_22H2_Latvian_x64v1.iso
+w10 22h2 lit x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Lithuanian/Win10_22H2_Lithuanian_x32v1.iso
+w10 22h2 lit x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Lithuanian/Win10_22H2_Lithuanian_x64v1.iso
+w10 22h2 nld x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Dutch/Win10_22H2_Dutch_x32v1.iso
+w10 22h2 nld x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Dutch/Win10_22H2_Dutch_x64v1.iso
+w10 22h2 nor x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Norwegian/Win10_22H2_Norwegian_x32v1.iso
+w10 22h2 nor x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Norwegian/Win10_22H2_Norwegian_x64v1.iso
+w10 22h2 pol x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Polish/Win10_22H2_Polish_x32v1.iso
+w10 22h2 pol x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Polish/Win10_22H2_Polish_x64v1.iso
+w10 22h2 ptbr x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Brazilian_Portuguese/Win10_22H2_BrazilianPortuguese_x32v1.iso
+w10 22h2 ptbr x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Brazilian_Portuguese/Win10_22H2_BrazilianPortuguese_x64v1.iso
+w10 22h2 ptpt x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Portuguese/Win10_22H2_Portuguese_x32v1.iso
+w10 22h2 ptpt x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Portuguese/Win10_22H2_Portuguese_x64v1.iso
+w10 22h2 rom x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Romanian/Win10_22H2_Romanian_x32v1.iso
+w10 22h2 rom x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Romanian/Win10_22H2_Romanian_x64v1.iso
+w10 22h2 rus x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Russian/Win10_22H2_Russian_x32v1.iso
+w10 22h2 rus x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Russian/Win10_22H2_Russian_x64v1.iso
+w10 22h2 slk x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Slovak/Win10_22H2_Slovak_x32v1.iso
+w10 22h2 slk x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Slovak/Win10_22H2_Slovak_x64v1.iso
+w10 22h2 slv x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Slovenian/Win10_22H2_Slovenian_x32v1.iso
+w10 22h2 slv x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Slovenian/Win10_22H2_Slovenian_x64v1.iso
+w10 22h2 srlat x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Serbian_Latin/Win10_22H2_SerbianLatin_x32v1.iso
+w10 22h2 srlat x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Serbian_Latin/Win10_22H2_SerbianLatin_x64v1.iso
+w10 22h2 swe x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Swedish/Win10_22H2_Swedish_x32v1.iso
+w10 22h2 swe x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Swedish/Win10_22H2_Swedish_x64v1.iso
+w10 22h2 tha x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Thai/Win10_22H2_Thai_x32v1.iso
+w10 22h2 tha x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Thai/Win10_22H2_Thai_x64v1.iso
+w10 22h2 tur x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Turkish/Win10_22H2_Turkish_x32v1.iso
+w10 22h2 tur x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Turkish/Win10_22H2_Turkish_x64v1.iso
+w10 22h2 ukr x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Ukrainian/Win10_22H2_Ukrainian_x32v1.iso
+w10 22h2 ukr x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Ukrainian/Win10_22H2_Ukrainian_x64v1.iso
+w10 22h2 zhcn x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Chinese_Simplified/Win10_22H2_Chinese_Simplified_x32v1.iso
+w10 22h2 zhcn x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Chinese_Simplified/Win10_22H2_Chinese_Simplified_x64v1.iso
+w10 22h2 zhtw x32: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Chinese_Traditional/Win10_22H2_Chinese_Traditional_x32v1.iso
+w10 22h2 zhtw x64: https://archive.org/download/windows-10-22h2-multi-edition-iso/Windows%2010%20v.22H2/Win10_22H2_Chinese_Traditional/Win10_22H2_Chinese_Traditional_x64v1.iso
+Windows 10 22H2 Retrophase Beta 1: https://archive.org/download/img-20250513-065043
+Windows 10 Longhorn 19045.2486 22 H 2 X 64: https://archive.org/download/windows-10-longhorn-19045.2486-22-h-2-x-64
+
+## Windows 11
+w11 21h1 ptbr x64: https://archive.org/download/windows-me_202207/Windows%2011/Windows%2011%2021h1%20PT-BR.iso
+Windows 11 Beta 1: https://archive.org/download/windows-11-beta-1
+Windows 11 BETA COLLECTION (64 bits): https://archive.org/download/windows-11-beta-collection
+Windows 11 Beta Debomb Pack: https://archive.org/download/windows-11-beta-debomb-pack-
+windows 11 iso (beta: https://archive.org/download/21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us_20210616_2111
+Windows 11 Official Leaked Beta Build: https://archive.org/download/windows11_21996.1.210529-1541.co-release-client-consumer-x-64-fre-en-us-2
+Windows 11 Retrophase Beta 1 (MOVED): https://archive.org/download/windows11rpbeta1
+Windows 11 Spotlight Beta Collection Images: https://archive.org/download/windows11-spotlight-beta-collection-images
+Windows 11 Beta Build 21380 ESD: https://archive.org/download/windows-11-beta
+Windows 11 Beta Build 21380 ESD: https://archive.org/download/windows-11-beta-build-21380-esd
+w11 RTM leaked build 21996.1 x64: https://archive.org/download/windows-me_202207/Windows%2011/Windows%2011%20RTM%20%28Leaked%20Build%2021996.1%29%20%28x64%29.iso
+Windows 11 Beta 21996 for Qemu: https://archive.org/download/windows-11-beta-21996.1.7z
+Windows 11 Beta Build 21996: https://archive.org/download/win11betabuild21996
+Windows 11 BETA Bullid 21996 Inglés: https://archive.org/download/Windows11Bullid21996BETA
+w11 21h2 eng x64: https://archive.org/download/english_windows_collection/Windows%2011/RTM/Win11_English_x64.iso
+Windows 11 PRO 22000.65 21 H 2 In Pre Non TPM 2.0 Compliant X 64 En US: https://archive.org/download/windows-11-pro-22000.65-21-h-2-in-pre-non-tpm-2.0-compliant-x-64-en-us
+Windows 11 PRO 22000.71 21 H 2 IN PRE Non TPM 2.0 Compliant X 64 En US [ Activated]: https://archive.org/download/windows-11-pro-22000.71-21-h-2-in-pre-non-tpm-2.0-compliant-x-64-en-us-activated
+Windows 11 PRO 22000.184 21 H 2 Não compatível com TPM 2.0 X 64 En US PRÉ ATIVADO [Arquivo CR]: https://archive.org/download/windows-11-pro-22000.184-21-h-2-non-tpm-2.0-complliant-x-64-en-us-pre-enabled-file-cr
+Windows 11 PRO 22000.194 21 H 2 Non TPM 2.0 Compliant X 64 En US PRE ACTIVATED: https://archive.org/download/windows-11-pro-22000.194-21-h-2-non-tpm-2.0-compliant-x-64-en-us-pre-activated
+Windows 11 PRO 22000.527 21 H 2 Non TPM 2.0 Compliant X 64 En US Pre Activated~ Victor 24~: https://archive.org/download/windows-11-pro-22000.527-21-h-2-non-tpm-2.0-compliant-x-64-en-us-pre-activated-victor-24
+Windows 11 PRO 22000.527 21 H 2 Non TPM 2.0 Compliant X 64 En US Pre Activated~ Victor 24~: https://archive.org/download/windows-11-pro-22000.527-21-h-2-non-tpm-2.0-compliant-x-64-en-us-pre-activated-victor-24_202512
